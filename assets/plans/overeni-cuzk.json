@@ -1,0 +1,79 @@
+{
+  "source": "https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer",
+  "address": "Betlémská 287/4, Staré Město, 11000 Praha 1",
+  "addressCode": 21717940,
+  "buildingCode": 21644071,
+  "parcelId": 2098981101.0,
+  "sourceGeometryCode": 1,
+  "sourceGeometryMeaning": "DKM (digitální katastrální mapa)",
+  "crs": "EPSG:5514 (S-JTSK / Krovak East North)",
+  "bbox": [
+    -743350.3200000003,
+    -1043442.3399999999,
+    -743270.2800000012,
+    -1043375.879999999
+  ],
+  "area_m2": 2990.14005,
+  "outerRingVertexCount": 68,
+  "holeRingCount": 1,
+  "facades": [
+    {
+      "name": "north_long_facade",
+      "start": [
+        -743342.7300000004,
+        -1043382.6700000018
+      ],
+      "end": [
+        -743281.9499999993,
+        -1043375.879999999
+      ],
+      "length_m": 61.158094314517015,
+      "angle_jtsk_deg": 6.3743327083206704
+    },
+    {
+      "name": "south_long_facade",
+      "start": [
+        -743276.9200000018,
+        -1043421.2899999991
+      ],
+      "end": [
+        -743343.7899999991,
+        -1043442.1999999993
+      ],
+      "length_m": 70.06300735514793,
+      "angle_jtsk_deg": 17.36426935470874
+    },
+    {
+      "name": "west_end_wall",
+      "start": [
+        -743350.0199999996,
+        -1043385.1900000013
+      ],
+      "end": [
+        -743347.0899999999,
+        -1043440.7800000012
+      ],
+      "length_m": 55.66716267227643,
+      "angle_jtsk_deg": 93.01711522482125
+    },
+    {
+      "name": "east_end_wall_upper",
+      "start": [
+        -743281.8000000007,
+        -1043376.0599999987
+      ],
+      "end": [
+        -743270.3000000007,
+        -1043418.8399999999
+      ],
+      "length_m": 44.298740389564074,
+      "angle_jtsk_deg": 105.04639183179823
+    }
+  ],
+  "longFacadeAngularDifference_deg": 10.989936646388069,
+  "downloadDate": "2026-10-27",
+  "parcelNumber": "220",
+  "cadastralAreaCode": 727024,
+  "cadastralAreaName": "Staré Město",
+  "parcelArea_m2": 3842
+}

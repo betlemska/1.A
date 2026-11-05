@@ -1,0 +1,40 @@
+{
+  "id": "./",
+  "name": "Betlémská — rozcestník 1.A",
+  "short_name": "1.A Betlémská",
+  "lang": "cs",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5f7",
+  "theme_color": "#1f8cc7",
+  "icons": [
+    {
+      "src": "assets/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "description": "Rozvrh 1.A, vyučující, jídelníček a školní aktuality.",
+  "shortcuts": [
+    {
+      "name": "Rozvrh 1.A",
+      "url": "./index.html#schedule"
+    },
+    {
+      "name": "Učitelé",
+      "url": "./index.html#teachers"
+    },
+    {
+      "name": "Aktuality",
+      "url": "./index.html#news"
+    }
+  ]
+}

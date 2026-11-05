@@ -1,0 +1,75 @@
+{
+  "buildingCode": 21644071,
+  "parcel": "220",
+  "cadastralArea": "Staré Město 727024",
+  "floor": "2. NP (1. patro)",
+  "sourceType": "User-supplied scanned evacuation plan; no room numbers",
+  "cadastralSource": "ČÚZK RÚIAN, geometry source DKM, EPSG:5514",
+  "date": "2026-10-27",
+  "angularDifference": 10.989936646388069,
+  "transform": "Projective alignment of four main-facade endpoints. Manual vector tracing of original scan, no generated wall or room data.",
+  "sourceAnchors": [
+    [
+      38,
+      254
+    ],
+    [
+      843,
+      66
+    ],
+    [
+      807,
+      713
+    ],
+    [
+      74,
+      719
+    ]
+  ],
+  "targetAnchors": [
+    [
+      50.249,
+      214.825
+    ],
+    [
+      901.84,
+      50.0
+    ],
+    [
+      877.124,
+      710.07
+    ],
+    [
+      126.08,
+      710.61
+    ]
+  ],
+  "homography": [
+    [
+      1.152870855407134,
+      0.08805283274292759,
+      -14.789760902522676
+    ],
+    [
+      0.060830211375743314,
+      1.1450215126568053,
+      -73.46643831968048
+    ],
+    [
+      7.420716022024904e-05,
+      7.788421276872227e-05,
+      1.0
+    ]
+  ],
+  "originalSHA256": "4cf6af7b4464a6c7e25fa0264613eb1cfaff843ff78fc0c440bb8d5b68c708d6",
+  "limitations": [
+    "The scan has no scale or room numbers.",
+    "Registered footprint is not a survey of 2. NP.",
+    "Open courtyard and central tract differ; retain the supplied floor layout.",
+    "This orientation drawing does not replace the original evacuation plan."
+  ],
+  "sources": [
+    "https://ags.cuzk.gov.cz/arcgis/rest/services/RUIAN/MapServer/3",
+    "https://vdp.cuzk.gov.cz/vdp/ruian/stavebniobjekty/21644071"
+  ]
+}

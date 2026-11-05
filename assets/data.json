@@ -1,0 +1,5657 @@
+{
+  "teachers": [
+    {
+      "id": "lucie-asali",
+      "name": "Lucie Asali",
+      "first": "Lucie",
+      "last": "Asali",
+      "title": "Mgr.",
+      "suffix": "",
+      "code": "AL",
+      "role": "učitelka",
+      "room": "kab. 13",
+      "phone": "251092159",
+      "classroom": "1. L",
+      "email": "lucie.asali@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 0,
+          "cls": "3.L",
+          "classes": [
+            "3.L"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 3.L ANJ(CIJ3)"
+        },
+        {
+          "day": 0,
+          "hour": 1,
+          "cls": "3.L",
+          "classes": [
+            "3.L"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 3.L ANJ(CIJ3)"
+        },
+        {
+          "day": 0,
+          "hour": 4,
+          "cls": "3.B",
+          "classes": [
+            "3.B"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 3.B ANJ(CIJ3)"
+        },
+        {
+          "day": 0,
+          "hour": 6,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 1.L ANJ(CIJ3)"
+        },
+        {
+          "day": 0,
+          "hour": 7,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "2/2 1.L ANJ(CIJ3)"
+        },
+        {
+          "day": 0,
+          "hour": 8,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "2/2 1.L ANJ(CIJ3)"
+        },
+        {
+          "day": 1,
+          "hour": 2,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 3.C ANJ(CIJ3)"
+        },
+        {
+          "day": 1,
+          "hour": 3,
+          "cls": "3.L",
+          "classes": [
+            "3.L"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 3.L ANJ(CIJ3)"
+        },
+        {
+          "day": 1,
+          "hour": 4,
+          "cls": "3.B",
+          "classes": [
+            "3.B"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 3.B ANJ(CIJ3)"
+        },
+        {
+          "day": 1,
+          "hour": 5,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "ANJc 4.A ANJ(CIJ3)"
+        },
+        {
+          "day": 1,
+          "hour": 6,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "ANJc 4.A ANJ(CIJ3)"
+        },
+        {
+          "day": 2,
+          "hour": 2,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 2.A ANJ(CIJ3)"
+        },
+        {
+          "day": 2,
+          "hour": 5,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "ANJc 4.A ANJ(CIJ3)"
+        },
+        {
+          "day": 2,
+          "hour": 6,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "ANJc 4.A ANJ(CIJ3)"
+        },
+        {
+          "day": 2,
+          "hour": 8,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "2/2 1.L ANJ(CIJ3)"
+        },
+        {
+          "day": 3,
+          "hour": 2,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 3.C ANJ(CIJ3)"
+        },
+        {
+          "day": 3,
+          "hour": 3,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 3.C ANJ(CIJ3)"
+        },
+        {
+          "day": 3,
+          "hour": 5,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 2.A ANJ(CIJ3) PŘ"
+        },
+        {
+          "day": 3,
+          "hour": 6,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 2.A ANJ(CIJ3)"
+        },
+        {
+          "day": 4,
+          "hour": 2,
+          "cls": "3.L",
+          "classes": [
+            "3.L"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 3.L ANJ(CIJ3)"
+        },
+        {
+          "day": 4,
+          "hour": 4,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 1.L ANJ(CIJ3)"
+        },
+        {
+          "day": 4,
+          "hour": 5,
+          "cls": "3.B",
+          "classes": [
+            "3.B"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 3.B ANJ(CIJ3)"
+        },
+        {
+          "day": 4,
+          "hour": 6,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ3",
+          "raw": "1/2 1.L ANJ(CIJ3)"
+        }
+      ],
+      "subjects": [
+        "ANJ"
+      ],
+      "duties": "Suplovací pohotovost (SP)\nPo: 4. hod; Čt: 5. hod\nDohled v přízemí (PŘ)\nSt: před 4. hod;\nČt: před 6. hod\nDohled v jídelně (JD)\nSt: před 5. hod;\nČt: před 8. hod",
+      "pdf": "assets/lucie-asali.pdf",
+      "photo": "assets/portraits/lucie-asali.png",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-10-27",
+      "fallbackAvatar": "female"
+    },
+    {
+      "id": "karel-bernat",
+      "name": "Karel Bernat",
+      "first": "Karel",
+      "last": "Bernat",
+      "title": "Ing. Bc.",
+      "suffix": "",
+      "code": "BK",
+      "role": "učitel",
+      "room": "kab. 15",
+      "phone": "251092136",
+      "classroom": "",
+      "email": "karel.bernat@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 0,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "U10",
+          "raw": "1.B MEC (U10)"
+        },
+        {
+          "day": 0,
+          "hour": 1,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "U10",
+          "raw": "1.B MEC (U10)"
+        },
+        {
+          "day": 0,
+          "hour": 2,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "U7",
+          "raw": "1.A MEC (U7)"
+        },
+        {
+          "day": 0,
+          "hour": 5,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "U8",
+          "raw": "2.C MEC (U8)"
+        },
+        {
+          "day": 0,
+          "hour": 6,
+          "cls": "4.A, 4.B, 4.C",
+          "classes": [
+            "4.A",
+            "4.B",
+            "4.C"
+          ],
+          "group": "",
+          "subject": "TVB",
+          "room": "U12",
+          "raw": "TVB 4.A 4.B 4.C TVB(U12)"
+        },
+        {
+          "day": 1,
+          "hour": 0,
+          "cls": "3.A, 3.B, 3.C",
+          "classes": [
+            "3.A",
+            "3.B",
+            "3.C"
+          ],
+          "group": "",
+          "subject": "TVB",
+          "room": "STT",
+          "raw": "TVB 3.A 3.B 3.C TVB(STT)"
+        },
+        {
+          "day": 1,
+          "hour": 1,
+          "cls": "3.A, 3.B, 3.C",
+          "classes": [
+            "3.A",
+            "3.B",
+            "3.C"
+          ],
+          "group": "",
+          "subject": "TVB",
+          "room": "STT",
+          "raw": "TVB 3.A 3.B 3.C TVB(STT)"
+        },
+        {
+          "day": 1,
+          "hour": 2,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "U7",
+          "raw": "1.A MEC (U7)"
+        },
+        {
+          "day": 1,
+          "hour": 3,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "U10",
+          "raw": "1.B MEC (U10)"
+        },
+        {
+          "day": 1,
+          "hour": 6,
+          "cls": "4.A, 4.B, 4.C",
+          "classes": [
+            "4.A",
+            "4.B",
+            "4.C"
+          ],
+          "group": "",
+          "subject": "PVB",
+          "room": "U21",
+          "raw": "TVB 4.A 4.B 4.C PVB(U21)"
+        },
+        {
+          "day": 1,
+          "hour": 7,
+          "cls": "4.A, 4.B, 4.C",
+          "classes": [
+            "4.A",
+            "4.B",
+            "4.C"
+          ],
+          "group": "",
+          "subject": "PVB",
+          "room": "U21",
+          "raw": "TVB 4.A 4.B 4.C PVB(U21)"
+        },
+        {
+          "day": 1,
+          "hour": 8,
+          "cls": "4.A, 4.B, 4.C",
+          "classes": [
+            "4.A",
+            "4.B",
+            "4.C"
+          ],
+          "group": "",
+          "subject": "PVB",
+          "room": "U21",
+          "raw": "TVB 4.A 4.B 4.C PVB(U21)"
+        },
+        {
+          "day": 2,
+          "hour": 0,
+          "cls": "4.A, 4.B, 4.C",
+          "classes": [
+            "4.A",
+            "4.B",
+            "4.C"
+          ],
+          "group": "",
+          "subject": "TVB",
+          "room": "STT",
+          "raw": "TVB 4.A 4.B 4.C TVB(STT)"
+        },
+        {
+          "day": 2,
+          "hour": 1,
+          "cls": "4.A, 4.B, 4.C",
+          "classes": [
+            "4.A",
+            "4.B",
+            "4.C"
+          ],
+          "group": "",
+          "subject": "TVB",
+          "room": "STT",
+          "raw": "TVB 4.A 4.B 4.C TVB(STT)"
+        },
+        {
+          "day": 2,
+          "hour": 2,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "U7",
+          "raw": "1.A MEC (U7)"
+        },
+        {
+          "day": 2,
+          "hour": 3,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "U7",
+          "raw": "1.A MEC (U7)"
+        },
+        {
+          "day": 2,
+          "hour": 7,
+          "cls": "3.A, 3.B, 3.C",
+          "classes": [
+            "3.A",
+            "3.B",
+            "3.C"
+          ],
+          "group": "",
+          "subject": "PVB",
+          "room": "U21",
+          "raw": "TVB 3.A 3.B 3.C PVB(U21)"
+        },
+        {
+          "day": 2,
+          "hour": 8,
+          "cls": "3.A, 3.B, 3.C",
+          "classes": [
+            "3.A",
+            "3.B",
+            "3.C"
+          ],
+          "group": "",
+          "subject": "PVB",
+          "room": "U21",
+          "raw": "TVB 3.A 3.B 3.C PVB(U21)"
+        },
+        {
+          "day": 3,
+          "hour": 6,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "U8",
+          "raw": "2.C MEC (U8)"
+        },
+        {
+          "day": 3,
+          "hour": 7,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "U8",
+          "raw": "2.C MEC (U8)"
+        },
+        {
+          "day": 4,
+          "hour": 2,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "U10",
+          "raw": "1.B MEC (U10)"
+        }
+      ],
+      "subjects": [
+        "MEC",
+        "PVB",
+        "TVB"
+      ],
+      "duties": "Suplovací pohotovost (SP)\nSt: 5. hod; Pá: 2. hod\nDohled ve 2. patře (2.P)\nÚt: před 4. hod\nDohled v jídelně (JD)\nPo: před 5. hod",
+      "pdf": "assets/karel-bernat.pdf",
+      "photo": "assets/portraits/karel-bernat-20261104.png",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-11-04",
+      "fallbackAvatar": "male",
+      "externalLinks": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/bernat_karel/"
+        }
+      ]
+    },
+    {
+      "id": "ondrej-cervinka",
+      "name": "Ondřej Červinka",
+      "first": "Ondřej",
+      "last": "Červinka",
+      "title": "Mgr.",
+      "suffix": "",
+      "code": "CO",
+      "role": "učitel",
+      "room": "kab. 4",
+      "phone": "251092128",
+      "classroom": "",
+      "email": "ondrej.cervinka@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 1,
+          "hour": 0,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U7",
+          "raw": "1.A CJL (U7)"
+        },
+        {
+          "day": 1,
+          "hour": 1,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U7",
+          "raw": "1.A CJL (U7)"
+        },
+        {
+          "day": 1,
+          "hour": 3,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U14",
+          "raw": "3.C CJL (U14)"
+        },
+        {
+          "day": 1,
+          "hour": 4,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U14",
+          "raw": "3.C CJL (U14)"
+        },
+        {
+          "day": 1,
+          "hour": 6,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U5",
+          "raw": "1.B CJL (U5) 1.P"
+        },
+        {
+          "day": 1,
+          "hour": 7,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U5",
+          "raw": "1.B CJL (U5)"
+        },
+        {
+          "day": 2,
+          "hour": 1,
+          "cls": "3.I",
+          "classes": [
+            "3.I"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U3",
+          "raw": "3.I CJL (U3)"
+        },
+        {
+          "day": 2,
+          "hour": 2,
+          "cls": "3.I",
+          "classes": [
+            "3.I"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U3",
+          "raw": "3.I CJL PŘ (U3)"
+        },
+        {
+          "day": 2,
+          "hour": 3,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U14",
+          "raw": "3.C CJL (U14)"
+        },
+        {
+          "day": 3,
+          "hour": 1,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U10",
+          "raw": "1.B CJL (U10)"
+        },
+        {
+          "day": 3,
+          "hour": 2,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U10",
+          "raw": "1.B CJL (U10)"
+        },
+        {
+          "day": 3,
+          "hour": 4,
+          "cls": "3.I",
+          "classes": [
+            "3.I"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "STT",
+          "raw": "3.I CJL (STT)"
+        },
+        {
+          "day": 3,
+          "hour": 5,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U7",
+          "raw": "1.A CJL (U7)"
+        },
+        {
+          "day": 3,
+          "hour": 6,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U7",
+          "raw": "1.A CJL (U7)"
+        }
+      ],
+      "subjects": [
+        "CJL"
+      ],
+      "duties": "Dohled v přízemí (PŘ)\nSt: před 3. hod\nDohled v 1. patře (1.P)\nÚt: před 7. hod",
+      "pdf": "assets/ondrej-cervinka.pdf",
+      "fallbackAvatar": "male",
+      "photo": "assets/portraits/ondrej-cervinka-20261103.webp",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-11-03"
+    },
+    {
+      "id": "jiri-gotz",
+      "name": "Jiří Götz",
+      "first": "Jiří",
+      "last": "Götz",
+      "title": "Bc.",
+      "suffix": "",
+      "code": "GJ",
+      "role": "učitel",
+      "room": "kab. 8",
+      "phone": "251092106",
+      "classroom": "2. B",
+      "email": "jiri.gotz@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 0,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "SB",
+          "raw": "1.C FYZ (SB)"
+        },
+        {
+          "day": 0,
+          "hour": 1,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U1",
+          "raw": "1.L FYZ (U1)"
+        },
+        {
+          "day": 0,
+          "hour": 2,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U16",
+          "raw": "2.L FYZ (U16)"
+        },
+        {
+          "day": 0,
+          "hour": 3,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U7",
+          "raw": "1.A FYZ (U7)"
+        },
+        {
+          "day": 0,
+          "hour": 6,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U7",
+          "raw": "1.A FYZ (U7)"
+        },
+        {
+          "day": 1,
+          "hour": 1,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U17",
+          "raw": "2.A FYZ (U17)"
+        },
+        {
+          "day": 1,
+          "hour": 2,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U15",
+          "raw": "2.B FYZ (U15)"
+        },
+        {
+          "day": 1,
+          "hour": 3,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "SB",
+          "raw": "1.C FYZ (SB)"
+        },
+        {
+          "day": 1,
+          "hour": 4,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U10",
+          "raw": "1.B FYZ (U10)"
+        },
+        {
+          "day": 1,
+          "hour": 6,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U1",
+          "raw": "1.L FYZ (U1)"
+        },
+        {
+          "day": 1,
+          "hour": 7,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "MFC",
+          "raw": "4.L FYZ (MFC)"
+        },
+        {
+          "day": 1,
+          "hour": 8,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U20",
+          "raw": "2.I FYZ (U20)"
+        },
+        {
+          "day": 2,
+          "hour": 2,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U10",
+          "raw": "1.B FYZ (U10)"
+        },
+        {
+          "day": 2,
+          "hour": 5,
+          "cls": "3.L",
+          "classes": [
+            "3.L"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U5",
+          "raw": "3.L FYZ (U5)"
+        },
+        {
+          "day": 2,
+          "hour": 6,
+          "cls": "3.L",
+          "classes": [
+            "3.L"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U5",
+          "raw": "3.L FYZ (U5)"
+        },
+        {
+          "day": 2,
+          "hour": 7,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "MFC",
+          "raw": "4.L FYZ (MFC)"
+        },
+        {
+          "day": 3,
+          "hour": 4,
+          "cls": "3.L",
+          "classes": [
+            "3.L"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U5",
+          "raw": "3.L FYZ (U5)"
+        },
+        {
+          "day": 3,
+          "hour": 5,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U15",
+          "raw": "2.B FYZ (U15)"
+        },
+        {
+          "day": 4,
+          "hour": 0,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U8",
+          "raw": "2.C FYZ (U8)"
+        },
+        {
+          "day": 4,
+          "hour": 1,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U16",
+          "raw": "2.L FYZ (U16)"
+        },
+        {
+          "day": 4,
+          "hour": 2,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U16",
+          "raw": "2.L FYZ (U16)"
+        },
+        {
+          "day": 4,
+          "hour": 3,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U8",
+          "raw": "2.C FYZ (U8)"
+        },
+        {
+          "day": 4,
+          "hour": 4,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U17",
+          "raw": "2.A FYZ (U17)"
+        }
+      ],
+      "subjects": [
+        "FYZ"
+      ],
+      "duties": "Suplovací pohotovost (SP)\nPo: 6. hod; St: 4. hod\nDohled ve 2. patře (2.P)\nSt: před 5. hod\nDohled v jídelně (JD)\nPo: před 8. hod;\nÚt: před 6. hod",
+      "pdf": "assets/jiri-gotz.pdf",
+      "fallbackAvatar": "male",
+      "photo": "assets/portraits/jiri-gotz-20261103.webp",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-11-03",
+      "externalLinks": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/jiri.gotz"
+        }
+      ]
+    },
+    {
+      "id": "miriam-humeova",
+      "name": "Miriam Humeová",
+      "first": "Miriam",
+      "last": "Humeová",
+      "title": "Ing.",
+      "suffix": "",
+      "code": "HU",
+      "role": "učitelka",
+      "room": "kab. 3",
+      "phone": "251092124",
+      "classroom": "1. A",
+      "email": "miriam.humeova@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 2,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "1/2",
+          "subject": "CAD",
+          "room": "VYT1",
+          "raw": "1/2 2.B CAD(VYT1)"
+        },
+        {
+          "day": 0,
+          "hour": 3,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "1/2",
+          "subject": "CAD",
+          "room": "VYT1",
+          "raw": "1/2 2.B CAD(VYT1)"
+        },
+        {
+          "day": 0,
+          "hour": 4,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "STT",
+          "room": "U7",
+          "raw": "1.A STT (U7)"
+        },
+        {
+          "day": 1,
+          "hour": 5,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "",
+          "subject": "STT",
+          "room": "U14",
+          "raw": "3.C STT (U14)"
+        },
+        {
+          "day": 1,
+          "hour": 6,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "TEK",
+          "room": "U7",
+          "raw": "1.A TEK (U7)"
+        },
+        {
+          "day": 1,
+          "hour": 7,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "TEK",
+          "room": "U7",
+          "raw": "1.A TEK (U7)"
+        },
+        {
+          "day": 1,
+          "hour": 8,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "1/2",
+          "subject": "CAD",
+          "room": "U17",
+          "raw": "1/2 2.A CAD(U17)"
+        },
+        {
+          "day": 1,
+          "hour": 9,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "1/2",
+          "subject": "CAD",
+          "room": "CAD",
+          "raw": "1/2 2.A CAD(CAD)"
+        },
+        {
+          "day": 2,
+          "hour": 5,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "STT",
+          "room": "U7",
+          "raw": "1.A STT (U7)"
+        },
+        {
+          "day": 2,
+          "hour": 6,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "2/2",
+          "subject": "CAD",
+          "room": "VYT3",
+          "raw": "2/2 2.B CAD(VYT3)"
+        },
+        {
+          "day": 2,
+          "hour": 7,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "2/2",
+          "subject": "CAD",
+          "room": "VYT3",
+          "raw": "2/2 2.B CAD(VYT3)"
+        },
+        {
+          "day": 2,
+          "hour": 8,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "1/2",
+          "subject": "CAD",
+          "room": "VYT3",
+          "raw": "1/2 2.C CAD(VYT3)"
+        },
+        {
+          "day": 2,
+          "hour": 9,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "1/2",
+          "subject": "CAD",
+          "room": "VYT3",
+          "raw": "1/2 2.C CAD(VYT3)"
+        },
+        {
+          "day": 3,
+          "hour": 1,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "",
+          "subject": "STT",
+          "room": "U14",
+          "raw": "3.C STT (U14)"
+        },
+        {
+          "day": 3,
+          "hour": 3,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "STT",
+          "room": "U7",
+          "raw": "1.A STT (U7)"
+        },
+        {
+          "day": 3,
+          "hour": 5,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "2/2",
+          "subject": "CAD",
+          "room": "VYT3",
+          "raw": "2/2 2.A CAD(VYT3)"
+        },
+        {
+          "day": 3,
+          "hour": 6,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "2/2",
+          "subject": "CAD",
+          "room": "VYT3",
+          "raw": "2/2 2.A CAD(VYT3)"
+        },
+        {
+          "day": 3,
+          "hour": 7,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "TEK",
+          "room": "U7",
+          "raw": "1.A TEK (U7)"
+        },
+        {
+          "day": 3,
+          "hour": 8,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "2/2",
+          "subject": "CAD",
+          "room": "VYT3",
+          "raw": "2/2 2.C CAD(VYT3) 1.P"
+        },
+        {
+          "day": 3,
+          "hour": 9,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "2/2",
+          "subject": "CAD",
+          "room": "VYT3",
+          "raw": "2/2 2.C CAD(VYT3)"
+        },
+        {
+          "day": 4,
+          "hour": 3,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "",
+          "subject": "STT",
+          "room": "U14",
+          "raw": "3.C STT (U14)"
+        },
+        {
+          "day": 4,
+          "hour": 5,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "TEK",
+          "room": "U7",
+          "raw": "1.A TEK (U7) 1.P"
+        }
+      ],
+      "subjects": [
+        "CAD",
+        "STT",
+        "TEK"
+      ],
+      "duties": "Suplovací pohotovost (SP)\nČt: 3. hod; Pá: 5. hod\nDohled v 1. patře (1.P)\nČt: před 9. hod;\nPá: před 6. hod",
+      "pdf": "assets/miriam-humeova.pdf",
+      "fallbackAvatar": "female",
+      "photo": "assets/portraits/miriam-humeova-20261103.webp",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-11-03"
+    },
+    {
+      "id": "zdenek-kouril",
+      "name": "Zdeněk Kouřil",
+      "first": "Zdeněk",
+      "last": "Kouřil",
+      "title": "Ing.",
+      "suffix": "",
+      "code": "KZ",
+      "role": "učitel",
+      "room": "kab. 3",
+      "phone": "251092124",
+      "classroom": "4. A",
+      "email": "zdenek.kouril@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 0,
+          "cls": "4.B",
+          "classes": [
+            "4.B"
+          ],
+          "group": "",
+          "subject": "KOM",
+          "room": "KOM2",
+          "raw": "ANJm 4.B KOM(KOM2)"
+        },
+        {
+          "day": 0,
+          "hour": 1,
+          "cls": "4.B",
+          "classes": [
+            "4.B"
+          ],
+          "group": "",
+          "subject": "KOM",
+          "room": "KOM2",
+          "raw": "ANJm 4.B KOM(KOM2) PŘ"
+        },
+        {
+          "day": 0,
+          "hour": 4,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "STT",
+          "room": "U9",
+          "raw": "4.A STT (U9)"
+        },
+        {
+          "day": 1,
+          "hour": 2,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "1/2",
+          "subject": "CDM",
+          "room": "VYT1",
+          "raw": "1/2 4.L CDM(VYT1)"
+        },
+        {
+          "day": 1,
+          "hour": 3,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "1/2",
+          "subject": "CDM",
+          "room": "VYT1",
+          "raw": "1/2 4.L CDM(VYT1)"
+        },
+        {
+          "day": 1,
+          "hour": 5,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "MET",
+          "room": "AUL1",
+          "raw": "MET 4.A MET(AUL1)"
+        },
+        {
+          "day": 1,
+          "hour": 6,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "MET",
+          "room": "AUL1",
+          "raw": "MET 4.A MET(AUL1)"
+        },
+        {
+          "day": 1,
+          "hour": 7,
+          "cls": "4.I",
+          "classes": [
+            "4.I"
+          ],
+          "group": "1/2",
+          "subject": "CAMi",
+          "room": "VYT3",
+          "raw": "1/2 4.I CAMi(VYT3)"
+        },
+        {
+          "day": 1,
+          "hour": 8,
+          "cls": "4.I",
+          "classes": [
+            "4.I"
+          ],
+          "group": "1/2",
+          "subject": "CAMi",
+          "room": "VYT3",
+          "raw": "1/2 4.I CAMi(VYT3)"
+        },
+        {
+          "day": 2,
+          "hour": 0,
+          "cls": "4.B, 4.C",
+          "classes": [
+            "4.B",
+            "4.C"
+          ],
+          "group": "",
+          "subject": "MET",
+          "room": "AUL1",
+          "raw": "MET 4.B 4.C MET(AUL1)"
+        },
+        {
+          "day": 2,
+          "hour": 1,
+          "cls": "4.B, 4.C",
+          "classes": [
+            "4.B",
+            "4.C"
+          ],
+          "group": "",
+          "subject": "MET",
+          "room": "AUL1",
+          "raw": "MET 4.B 4.C MET(AUL1) PŘ"
+        },
+        {
+          "day": 2,
+          "hour": 2,
+          "cls": "4.C",
+          "classes": [
+            "4.C"
+          ],
+          "group": "2/2",
+          "subject": "KOM",
+          "room": "KOM2",
+          "raw": "2/2 4.C KOM(KOM2)"
+        },
+        {
+          "day": 2,
+          "hour": 3,
+          "cls": "4.C",
+          "classes": [
+            "4.C"
+          ],
+          "group": "2/2",
+          "subject": "KOM",
+          "room": "KOM2",
+          "raw": "2/2 4.C KOM(KOM2)"
+        },
+        {
+          "day": 2,
+          "hour": 5,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "KOM",
+          "room": "KOM2",
+          "raw": "ANJm 4.A KOM(KOM2)"
+        },
+        {
+          "day": 2,
+          "hour": 6,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "KOM",
+          "room": "KOM2",
+          "raw": "ANJm 4.A KOM(KOM2)"
+        },
+        {
+          "day": 2,
+          "hour": 7,
+          "cls": "3.A, 3.B, 3.C",
+          "classes": [
+            "3.A",
+            "3.B",
+            "3.C"
+          ],
+          "group": "",
+          "subject": "MET",
+          "room": "AUL1",
+          "raw": "MET 3.A 3.B 3.C MET(AUL1) PŘ"
+        },
+        {
+          "day": 2,
+          "hour": 8,
+          "cls": "3.A, 3.B, 3.C",
+          "classes": [
+            "3.A",
+            "3.B",
+            "3.C"
+          ],
+          "group": "",
+          "subject": "MET",
+          "room": "AUL1",
+          "raw": "MET 3.A 3.B 3.C MET(AUL1) PŘ"
+        },
+        {
+          "day": 3,
+          "hour": 5,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "2/2",
+          "subject": "KOM",
+          "room": "KOM2",
+          "raw": "2/2 3.C KOM(KOM2)"
+        },
+        {
+          "day": 3,
+          "hour": 6,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "2/2",
+          "subject": "KOM",
+          "room": "KOM2",
+          "raw": "2/2 3.C KOM(KOM2) PŘ"
+        },
+        {
+          "day": 3,
+          "hour": 8,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "STT",
+          "room": "U9",
+          "raw": "4.A STT (U9)"
+        },
+        {
+          "day": 4,
+          "hour": 0,
+          "cls": "4.I",
+          "classes": [
+            "4.I"
+          ],
+          "group": "2/2",
+          "subject": "CAMi",
+          "room": "VYT1",
+          "raw": "2/2 4.I CAMi(VYT1)"
+        },
+        {
+          "day": 4,
+          "hour": 1,
+          "cls": "4.I",
+          "classes": [
+            "4.I"
+          ],
+          "group": "2/2",
+          "subject": "CAMi",
+          "room": "VYT1",
+          "raw": "2/2 4.I CAMi(VYT1)"
+        },
+        {
+          "day": 4,
+          "hour": 4,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "STT",
+          "room": "U9",
+          "raw": "4.A STT (U9)"
+        }
+      ],
+      "subjects": [
+        "CAMi",
+        "CDM",
+        "KOM",
+        "MET",
+        "STT"
+      ],
+      "duties": "Suplovací pohotovost (SP)\nPo: 3. hod; Pá: 4. hod\nDohled v přízemí (PŘ)\nPo: před 2. hod;\nSt: před 2., 8., 9. hod;\nČt: před 7., 8. hod\nDohled v jídelně (JD)\nÚt: před 5. hod",
+      "pdf": "assets/zdenek-kouril.pdf",
+      "photo": "assets/portraits/zdenek-kouril.png",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-10-27",
+      "fallbackAvatar": "male"
+    },
+    {
+      "id": "vladislav-liszok",
+      "name": "Vladislav Liszok",
+      "first": "Vladislav",
+      "last": "Liszok",
+      "title": "PaedDr.",
+      "suffix": "",
+      "code": "LV",
+      "role": "učitel",
+      "room": "kab. 18",
+      "phone": "251092141",
+      "classroom": "3. I",
+      "email": "vladislav.liszok@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 6,
+          "cls": "3.I",
+          "classes": [
+            "3.I"
+          ],
+          "group": "",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "3.I TEV (TEV1)"
+        },
+        {
+          "day": 0,
+          "hour": 7,
+          "cls": "3.I",
+          "classes": [
+            "3.I"
+          ],
+          "group": "",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "3.I TEV (TEV1)"
+        },
+        {
+          "day": 1,
+          "hour": 0,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 2.L TEV(TEV2)"
+        },
+        {
+          "day": 1,
+          "hour": 1,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 2.L TEV(TEV2)"
+        },
+        {
+          "day": 1,
+          "hour": 2,
+          "cls": "3.A",
+          "classes": [
+            "3.A"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 3.A TEV(TEV1)"
+        },
+        {
+          "day": 1,
+          "hour": 3,
+          "cls": "3.A",
+          "classes": [
+            "3.A"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 3.A TEV(TEV1)"
+        },
+        {
+          "day": 2,
+          "hour": 0,
+          "cls": "3.L",
+          "classes": [
+            "3.L"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 3.L TEV(TEV1)"
+        },
+        {
+          "day": 2,
+          "hour": 1,
+          "cls": "3.L",
+          "classes": [
+            "3.L"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 3.L TEV(TEV1)"
+        },
+        {
+          "day": 2,
+          "hour": 2,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 4.L TEV(TEV1)"
+        },
+        {
+          "day": 2,
+          "hour": 3,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 4.L TEV(TEV1)"
+        },
+        {
+          "day": 3,
+          "hour": 0,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 2.C TEV(TEV1)"
+        },
+        {
+          "day": 3,
+          "hour": 1,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 2.C TEV(TEV1)"
+        },
+        {
+          "day": 3,
+          "hour": 2,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 2.I TEV(TEV1)"
+        },
+        {
+          "day": 3,
+          "hour": 3,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 2.I TEV(TEV1)"
+        },
+        {
+          "day": 3,
+          "hour": 4,
+          "cls": "4.B",
+          "classes": [
+            "4.B"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 4.B TEV(TEV1)"
+        },
+        {
+          "day": 3,
+          "hour": 5,
+          "cls": "4.B",
+          "classes": [
+            "4.B"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 4.B TEV(TEV1)"
+        },
+        {
+          "day": 3,
+          "hour": 7,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 1.C TEV(TEV2)"
+        },
+        {
+          "day": 3,
+          "hour": 8,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 1.C TEV(TEV2)"
+        },
+        {
+          "day": 4,
+          "hour": 0,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 1.C TEV(TEV1)"
+        },
+        {
+          "day": 4,
+          "hour": 1,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 1.C TEV(TEV1)"
+        },
+        {
+          "day": 4,
+          "hour": 2,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "4.A TEV (TEV1)"
+        },
+        {
+          "day": 4,
+          "hour": 3,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "4.A TEV (TEV1)"
+        },
+        {
+          "day": 4,
+          "hour": 4,
+          "cls": "4.I",
+          "classes": [
+            "4.I"
+          ],
+          "group": "",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "4.I TEV (TEV1)"
+        },
+        {
+          "day": 4,
+          "hour": 5,
+          "cls": "4.I",
+          "classes": [
+            "4.I"
+          ],
+          "group": "",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "4.I TEV (TEV1)"
+        }
+      ],
+      "subjects": [
+        "TEV"
+      ],
+      "duties": "Suplovací pohotovost (SP)\nPo: 6. hod; St: 5. hod\nDohled v jídelně (JD)\nČt: před 7. hod;\nPá: před 7. hod",
+      "pdf": "assets/vladislav-liszok.pdf",
+      "photo": "assets/portraits/vladislav-liszok-20261103.webp",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-11-03",
+      "fallbackAvatar": "male"
+    },
+    {
+      "id": "andrea-pavlova",
+      "name": "Andrea Pavlová",
+      "first": "Andrea",
+      "last": "Pavlová",
+      "title": "Mgr.",
+      "suffix": "",
+      "code": "PA",
+      "role": "učitelka",
+      "room": "kab. 17",
+      "phone": "251092165",
+      "classroom": "4. C",
+      "email": "andrea.pavlova@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 0,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 2.B TEV(TEV2)"
+        },
+        {
+          "day": 0,
+          "hour": 1,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 2.B TEV(TEV2)"
+        },
+        {
+          "day": 0,
+          "hour": 4,
+          "cls": "4.C",
+          "classes": [
+            "4.C"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "U18",
+          "raw": "1/2 4.C ANJ(U18)"
+        },
+        {
+          "day": 0,
+          "hour": 5,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "U10",
+          "raw": "1.A CHE (U10)"
+        },
+        {
+          "day": 0,
+          "hour": 6,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "U10",
+          "raw": "1.I CHE (U10)"
+        },
+        {
+          "day": 1,
+          "hour": 1,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "U10",
+          "raw": "1.B CHE (U10) 2.P"
+        },
+        {
+          "day": 1,
+          "hour": 3,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "",
+          "subject": "BIO",
+          "room": "U1",
+          "raw": "1.L BIO (U1)"
+        },
+        {
+          "day": 1,
+          "hour": 4,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "SB",
+          "raw": "1.C CHE (SB)"
+        },
+        {
+          "day": 2,
+          "hour": 2,
+          "cls": "4.C",
+          "classes": [
+            "4.C"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "U18",
+          "raw": "1/2 4.C ANJ(U18)"
+        },
+        {
+          "day": 2,
+          "hour": 3,
+          "cls": "4.C",
+          "classes": [
+            "4.C"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "U18",
+          "raw": "1/2 4.C ANJ(U18)"
+        },
+        {
+          "day": 2,
+          "hour": 4,
+          "cls": "4.C",
+          "classes": [
+            "4.C"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 4.C TEV(TEV2)"
+        },
+        {
+          "day": 2,
+          "hour": 5,
+          "cls": "4.C",
+          "classes": [
+            "4.C"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 4.C TEV(TEV2)"
+        },
+        {
+          "day": 2,
+          "hour": 7,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 2.A TEV(TEV2)"
+        },
+        {
+          "day": 2,
+          "hour": 8,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 2.A TEV(TEV2)"
+        },
+        {
+          "day": 3,
+          "hour": 0,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "SB",
+          "raw": "1.C CHE (SB)"
+        },
+        {
+          "day": 3,
+          "hour": 1,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "",
+          "subject": "BIO",
+          "room": "U1",
+          "raw": "1.L BIO (U1)"
+        },
+        {
+          "day": 3,
+          "hour": 2,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "",
+          "subject": "BIO",
+          "room": "U1",
+          "raw": "1.L BIO (U1)"
+        },
+        {
+          "day": 3,
+          "hour": 4,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "U10",
+          "raw": "1.B CHE (U10)"
+        },
+        {
+          "day": 3,
+          "hour": 5,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "U3",
+          "raw": "1.I CHE (U3)"
+        },
+        {
+          "day": 3,
+          "hour": 7,
+          "cls": "4.C",
+          "classes": [
+            "4.C"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 4.C TEV(TEV1)"
+        },
+        {
+          "day": 3,
+          "hour": 8,
+          "cls": "4.C",
+          "classes": [
+            "4.C"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 4.C TEV(TEV1)"
+        },
+        {
+          "day": 4,
+          "hour": 2,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "U7",
+          "raw": "1.A CHE (U7)"
+        },
+        {
+          "day": 4,
+          "hour": 5,
+          "cls": "4.C",
+          "classes": [
+            "4.C"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "U18",
+          "raw": "1/2 4.C ANJ(U18)"
+        }
+      ],
+      "subjects": [
+        "ANJ",
+        "BIO",
+        "CHE",
+        "TEV"
+      ],
+      "duties": "Suplovací pohotovost (SP)\nÚt: 1. hod; Pá: 4. hod\nDohled ve 2. patře (2.P)\nÚt: před 2. hod;\nSt: před 7. hod;\nČt: před 7. hod;\nPá: před 7. hod",
+      "pdf": "assets/andrea-pavlova.pdf",
+      "fallbackAvatar": "female",
+      "photo": "assets/portraits/andrea-pavlova-20261103.webp",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-11-03"
+    },
+    {
+      "id": "jakub-petrak",
+      "name": "Jakub Petrák",
+      "first": "Jakub",
+      "last": "Petrák",
+      "title": "Mgr.",
+      "suffix": "",
+      "code": "PJ",
+      "role": "učitel",
+      "room": "kab. 18",
+      "phone": "251092141",
+      "classroom": "3. B",
+      "email": "jakub.petrak@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 2,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 1.B TEV(TEV2)"
+        },
+        {
+          "day": 0,
+          "hour": 3,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 1.B TEV(TEV2)"
+        },
+        {
+          "day": 0,
+          "hour": 4,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 1.L TEV(TEV1)"
+        },
+        {
+          "day": 0,
+          "hour": 5,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 1.L TEV(TEV1)"
+        },
+        {
+          "day": 1,
+          "hour": 4,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 1.I TEV(TEV1) 2.P"
+        },
+        {
+          "day": 1,
+          "hour": 5,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 1.I TEV(TEV1)"
+        },
+        {
+          "day": 1,
+          "hour": 6,
+          "cls": "3.B",
+          "classes": [
+            "3.B"
+          ],
+          "group": "",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "3.B TEV (TEV1) 2.P"
+        },
+        {
+          "day": 1,
+          "hour": 7,
+          "cls": "3.B",
+          "classes": [
+            "3.B"
+          ],
+          "group": "",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "3.B TEV (TEV1)"
+        },
+        {
+          "day": 1,
+          "hour": 8,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "3.C TEV (TEV1)"
+        },
+        {
+          "day": 1,
+          "hour": 9,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "3.C TEV (TEV1)"
+        },
+        {
+          "day": 2,
+          "hour": 0,
+          "cls": "3.L",
+          "classes": [
+            "3.L"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 3.L TEV(TEV2)"
+        },
+        {
+          "day": 2,
+          "hour": 1,
+          "cls": "3.L",
+          "classes": [
+            "3.L"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 3.L TEV(TEV2)"
+        },
+        {
+          "day": 2,
+          "hour": 2,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 4.L TEV(TEV2) 2.P"
+        },
+        {
+          "day": 2,
+          "hour": 3,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 4.L TEV(TEV2)"
+        },
+        {
+          "day": 2,
+          "hour": 4,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 2.B TEV(TEV1)"
+        },
+        {
+          "day": 2,
+          "hour": 5,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 2.B TEV(TEV1)"
+        },
+        {
+          "day": 2,
+          "hour": 7,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 2.A TEV(TEV1)"
+        },
+        {
+          "day": 2,
+          "hour": 8,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 2.A TEV(TEV1)"
+        },
+        {
+          "day": 4,
+          "hour": 0,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 1.A TEV(TEV2)"
+        },
+        {
+          "day": 4,
+          "hour": 1,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 1.A TEV(TEV2)"
+        }
+      ],
+      "subjects": [
+        "TEV"
+      ],
+      "duties": "Dohled ve 2. patře (2.P)\nÚt: před 5., 7. hod;\nSt: před 3. hod",
+      "pdf": "assets/jakub-petrak.pdf",
+      "photo": "assets/portraits/jakub-petrak.png",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-10-27",
+      "fallbackAvatar": "male"
+    },
+    {
+      "id": "hynek-petros",
+      "name": "Hynek Petroš",
+      "first": "Hynek",
+      "last": "Petroš",
+      "title": "",
+      "suffix": "",
+      "code": "PH",
+      "role": "učitel",
+      "room": "kab. 6",
+      "phone": "251092170",
+      "classroom": "",
+      "email": "hynek.petros@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 1,
+          "hour": 3,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "MAT",
+          "room": "U7",
+          "raw": "1.A MAT (U7)"
+        },
+        {
+          "day": 1,
+          "hour": 4,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "MAT",
+          "room": "U7",
+          "raw": "1.A MAT (U7) 1.P"
+        },
+        {
+          "day": 4,
+          "hour": 3,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "MAT",
+          "room": "U7",
+          "raw": "1.A MAT (U7)"
+        },
+        {
+          "day": 4,
+          "hour": 4,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "MAT",
+          "room": "U7",
+          "raw": "1.A MAT (U7) 1.P"
+        }
+      ],
+      "subjects": [
+        "MAT"
+      ],
+      "duties": "Dohled v 1. patře (1.P)\nÚt: před 5. hod;\nPá: před 5. hod",
+      "pdf": "assets/hynek-petros.pdf",
+      "fallbackAvatar": "male",
+      "photo": "assets/portraits/hynek-petros-20261103.webp",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-11-03",
+      "externalLinks": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/hynek.petros.5"
+        }
+      ]
+    },
+    {
+      "id": "barbora-pivonkova",
+      "name": "Barbora Pivoňková",
+      "first": "Barbora",
+      "last": "Pivoňková",
+      "title": "Mgr.",
+      "suffix": "",
+      "code": "PB",
+      "role": "učitelka",
+      "room": "kab. 4",
+      "phone": "251092128",
+      "classroom": "",
+      "email": "barbora.pivonkova@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 0,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U5",
+          "raw": "4.A CJL (U5)"
+        },
+        {
+          "day": 0,
+          "hour": 1,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U5",
+          "raw": "4.A CJL (U5)"
+        },
+        {
+          "day": 0,
+          "hour": 4,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U8",
+          "raw": "2.C CJL 2.P (U8)"
+        },
+        {
+          "day": 0,
+          "hour": 6,
+          "cls": "4.I",
+          "classes": [
+            "4.I"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U3",
+          "raw": "4.I CJL (U3)"
+        },
+        {
+          "day": 0,
+          "hour": 7,
+          "cls": "4.I",
+          "classes": [
+            "4.I"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U3",
+          "raw": "4.I CJL (U3)"
+        },
+        {
+          "day": 1,
+          "hour": 2,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U5",
+          "raw": "2.C CJL (U5)"
+        },
+        {
+          "day": 1,
+          "hour": 3,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U5",
+          "raw": "2.C CJL (U5)"
+        },
+        {
+          "day": 1,
+          "hour": 6,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "",
+          "subject": "DEJ",
+          "room": "U3",
+          "raw": "1.I DEJ (U3)"
+        },
+        {
+          "day": 2,
+          "hour": 0,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "DEJ",
+          "room": "U7",
+          "raw": "1.A DEJ (U7)"
+        },
+        {
+          "day": 2,
+          "hour": 2,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "",
+          "subject": "DEJ",
+          "room": "U8",
+          "raw": "2.C DEJ (U8)"
+        },
+        {
+          "day": 2,
+          "hour": 4,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "",
+          "subject": "DEJ",
+          "room": "U17",
+          "raw": "2.A DEJ (U17)"
+        },
+        {
+          "day": 2,
+          "hour": 5,
+          "cls": "3.B",
+          "classes": [
+            "3.B"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U6",
+          "raw": "3.B CJL (U6)"
+        },
+        {
+          "day": 3,
+          "hour": 0,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U9",
+          "raw": "4.A CJL (U9)"
+        },
+        {
+          "day": 3,
+          "hour": 1,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U9",
+          "raw": "4.A CJL (U9)"
+        },
+        {
+          "day": 3,
+          "hour": 2,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "DEJ",
+          "room": "U7",
+          "raw": "1.A DEJ (U7) PŘ"
+        },
+        {
+          "day": 3,
+          "hour": 3,
+          "cls": "4.I",
+          "classes": [
+            "4.I"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U3",
+          "raw": "4.I CJL (U3)"
+        },
+        {
+          "day": 3,
+          "hour": 4,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "",
+          "subject": "DEJ",
+          "room": "U3",
+          "raw": "1.I DEJ (U3)"
+        },
+        {
+          "day": 4,
+          "hour": 0,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "",
+          "subject": "DEJ",
+          "room": "U15",
+          "raw": "2.B DEJ (U15)"
+        },
+        {
+          "day": 4,
+          "hour": 1,
+          "cls": "3.B",
+          "classes": [
+            "3.B"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U6",
+          "raw": "3.B CJL (U6)"
+        },
+        {
+          "day": 4,
+          "hour": 2,
+          "cls": "3.B",
+          "classes": [
+            "3.B"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U6",
+          "raw": "3.B CJL (U6)"
+        },
+        {
+          "day": 4,
+          "hour": 3,
+          "cls": "4.I",
+          "classes": [
+            "4.I"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U3",
+          "raw": "4.I CJL (U3)"
+        }
+      ],
+      "subjects": [
+        "CJL",
+        "DEJ"
+      ],
+      "duties": "Suplovací pohotovost (SP)\nÚt: 6. hod; St: 2. hod\nDohled v přízemí (PŘ)\nČt: před 3. hod\nDohled ve 2. patře (2.P)\nPo: před 5. hod\nDohled v jídelně (JD)\nPo: před 6. hod",
+      "pdf": "assets/barbora-pivonkova.pdf",
+      "fallbackAvatar": "female"
+    },
+    {
+      "id": "pavel-pokorny",
+      "name": "Pavel Pokorný",
+      "first": "Pavel",
+      "last": "Pokorný",
+      "title": "Mgr.",
+      "suffix": "",
+      "code": "PP",
+      "role": "učitel",
+      "room": "kab. 13",
+      "phone": "251092159",
+      "classroom": "",
+      "email": "pavel.pokorny@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 1,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "MFC",
+          "raw": "2/2 4.L ANJ(MFC)"
+        },
+        {
+          "day": 0,
+          "hour": 2,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "MFC",
+          "raw": "2/2 4.L ANJ(MFC)"
+        },
+        {
+          "day": 0,
+          "hour": 4,
+          "cls": "3.B",
+          "classes": [
+            "3.B"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "U6",
+          "raw": "2/2 3.B ANJ(U6)"
+        },
+        {
+          "day": 0,
+          "hour": 7,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ1",
+          "raw": "1/2 1.C ANJ(CIJ1)"
+        },
+        {
+          "day": 0,
+          "hour": 8,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ1",
+          "raw": "2/2 1.A ANJ(CIJ1)"
+        },
+        {
+          "day": 0,
+          "hour": 9,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ1",
+          "raw": "2/2 1.A ANJ(CIJ1)"
+        },
+        {
+          "day": 1,
+          "hour": 2,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "U3",
+          "raw": "1/2 1.I ANJ(U3)"
+        },
+        {
+          "day": 1,
+          "hour": 3,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "U3",
+          "raw": "1/2 1.I ANJ(U3)"
+        },
+        {
+          "day": 1,
+          "hour": 4,
+          "cls": "3.B",
+          "classes": [
+            "3.B"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "U6",
+          "raw": "2/2 3.B ANJ(U6)"
+        },
+        {
+          "day": 1,
+          "hour": 6,
+          "cls": "3.A",
+          "classes": [
+            "3.A"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "U13",
+          "raw": "2/2 3.A ANJ(U13)"
+        },
+        {
+          "day": 1,
+          "hour": 7,
+          "cls": "3.A",
+          "classes": [
+            "3.A"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "U13",
+          "raw": "2/2 3.A ANJ(U13)"
+        },
+        {
+          "day": 2,
+          "hour": 0,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ2",
+          "raw": "1/2 2.C ANJ(CIJ2)"
+        },
+        {
+          "day": 2,
+          "hour": 1,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ2",
+          "raw": "1/2 2.C ANJ(CIJ2)"
+        },
+        {
+          "day": 3,
+          "hour": 0,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ1",
+          "raw": "2/2 1.A ANJ(CIJ1)"
+        },
+        {
+          "day": 3,
+          "hour": 1,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ1",
+          "raw": "1/2 1.I ANJ(CIJ1)"
+        },
+        {
+          "day": 3,
+          "hour": 4,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ1",
+          "raw": "1/2 1.C ANJ(CIJ1)"
+        },
+        {
+          "day": 4,
+          "hour": 1,
+          "cls": "3.A",
+          "classes": [
+            "3.A"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ5",
+          "raw": "2/2 3.A ANJ(CIJ5)"
+        },
+        {
+          "day": 4,
+          "hour": 2,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ5",
+          "raw": "1/2 2.C ANJ(CIJ5)"
+        },
+        {
+          "day": 4,
+          "hour": 3,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "SB",
+          "raw": "1/2 1.C ANJ(SB) PŘ"
+        },
+        {
+          "day": 4,
+          "hour": 4,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ2",
+          "raw": "2/2 4.L ANJ(CIJ2)"
+        },
+        {
+          "day": 4,
+          "hour": 5,
+          "cls": "3.B",
+          "classes": [
+            "3.B"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ2",
+          "raw": "2/2 3.B ANJ(CIJ2)"
+        },
+        {
+          "day": 4,
+          "hour": 6,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ2",
+          "raw": "2/2 4.L ANJ(CIJ2)"
+        }
+      ],
+      "subjects": [
+        "ANJ"
+      ],
+      "duties": "Suplovací pohotovost (SP)\nPo: 4. hod; Čt: 4. hod\nDohled v přízemí (PŘ)\nPo: před 6., 7. hod;\nPá: před 4. hod\nDohled v jídelně (JD)\nPá: před 8. hod",
+      "pdf": "assets/pavel-pokorny.pdf",
+      "photo": "assets/portraits/pavel-pokorny.png",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-10-27",
+      "fallbackAvatar": "male"
+    },
+    {
+      "id": "michal-prutyszyn",
+      "name": "Michal Prutyszyn",
+      "first": "Michal",
+      "last": "Prutyszyn",
+      "title": "Mgr.",
+      "suffix": "MBA",
+      "code": "PR",
+      "role": "ředitel školy",
+      "room": "ředitelna",
+      "phone": "251092100",
+      "classroom": "",
+      "email": "michal.prutyszyn@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 0,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "group": "1/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "1/2 2.L ICT(VYT2)"
+        },
+        {
+          "day": 0,
+          "hour": 1,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "group": "1/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "1/2 2.L ICT(VYT2)"
+        },
+        {
+          "day": 0,
+          "hour": 2,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "1/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "1/2 2.A ICT(VYT2)"
+        },
+        {
+          "day": 0,
+          "hour": 3,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "1/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "1/2 2.A ICT(VYT2)"
+        }
+      ],
+      "subjects": [
+        "ICT"
+      ],
+      "duties": "",
+      "pdf": "assets/michal-prutyszyn.pdf",
+      "photo": "assets/portraits/michal-prutyszyn-20261103.webp",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-11-03",
+      "fallbackAvatar": "male"
+    },
+    {
+      "id": "ondrej-ruzicka",
+      "name": "Ondřej Růžička",
+      "first": "Ondřej",
+      "last": "Růžička",
+      "title": "Ing.",
+      "suffix": "",
+      "code": "RO",
+      "role": "učitel",
+      "room": "kab. 3",
+      "phone": "251092124",
+      "classroom": "3. C",
+      "email": "ondrej.ruzicka@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 0,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "",
+          "subject": "PKC",
+          "room": "VYT3",
+          "raw": "PKC2 3.C PKC(VYT3)"
+        },
+        {
+          "day": 0,
+          "hour": 1,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "",
+          "subject": "PKC",
+          "room": "VYT3",
+          "raw": "PKC2 3.C PKC(VYT3)"
+        },
+        {
+          "day": 0,
+          "hour": 2,
+          "cls": "4.C",
+          "classes": [
+            "4.C"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "SPS",
+          "raw": "4.C SPS (SPS)"
+        },
+        {
+          "day": 0,
+          "hour": 3,
+          "cls": "4.C",
+          "classes": [
+            "4.C"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "SPS",
+          "raw": "4.C SPS (SPS)"
+        },
+        {
+          "day": 0,
+          "hour": 4,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "SB",
+          "raw": "1.C MEC (SB)"
+        },
+        {
+          "day": 0,
+          "hour": 5,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "U9",
+          "raw": "4.A SPS (U9)"
+        },
+        {
+          "day": 1,
+          "hour": 3,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "SPS",
+          "raw": "4.A SPS (SPS)"
+        },
+        {
+          "day": 1,
+          "hour": 4,
+          "cls": "4.C",
+          "classes": [
+            "4.C"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "U18",
+          "raw": "4.C SPS (U18)"
+        },
+        {
+          "day": 1,
+          "hour": 6,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "SPS",
+          "raw": "2.B SPS (SPS)"
+        },
+        {
+          "day": 1,
+          "hour": 7,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "SPS",
+          "raw": "3.C SPS (SPS)"
+        },
+        {
+          "day": 2,
+          "hour": 3,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "U16",
+          "raw": "1.C MEC (U16)"
+        },
+        {
+          "day": 2,
+          "hour": 5,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "U14",
+          "raw": "3.C SPS (U14)"
+        },
+        {
+          "day": 2,
+          "hour": 6,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "SPS",
+          "raw": "3.C SPS (SPS)"
+        },
+        {
+          "day": 2,
+          "hour": 7,
+          "cls": "3.A, 3.B, 3.C",
+          "classes": [
+            "3.A",
+            "3.B",
+            "3.C"
+          ],
+          "group": "",
+          "subject": "PKC",
+          "room": "VYT1",
+          "raw": "PKC1 3.A 3.B 3.C PKC(VYT1)"
+        },
+        {
+          "day": 2,
+          "hour": 8,
+          "cls": "3.A, 3.B, 3.C",
+          "classes": [
+            "3.A",
+            "3.B",
+            "3.C"
+          ],
+          "group": "",
+          "subject": "PKC",
+          "room": "VYT1",
+          "raw": "PKC1 3.A 3.B 3.C PKC(VYT1)"
+        },
+        {
+          "day": 3,
+          "hour": 0,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "SPS",
+          "raw": "2.B SPS 1.P (SPS)"
+        },
+        {
+          "day": 3,
+          "hour": 1,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "SB",
+          "raw": "1.C MEC (SB)"
+        },
+        {
+          "day": 3,
+          "hour": 2,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "U15",
+          "raw": "2.B SPS (U15)"
+        },
+        {
+          "day": 3,
+          "hour": 3,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "SPS",
+          "raw": "4.A SPS 1.P (SPS)"
+        },
+        {
+          "day": 3,
+          "hour": 4,
+          "cls": "4.C",
+          "classes": [
+            "4.C"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "U18",
+          "raw": "4.C SPS (U18)"
+        },
+        {
+          "day": 4,
+          "hour": 1,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "SPS",
+          "raw": "2.B SPS (SPS)"
+        },
+        {
+          "day": 4,
+          "hour": 2,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "U14",
+          "raw": "3.C SPS (U14)"
+        },
+        {
+          "day": 4,
+          "hour": 4,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "",
+          "subject": "MEC",
+          "room": "SB",
+          "raw": "1.C MEC (SB)"
+        },
+        {
+          "day": 4,
+          "hour": 5,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "SPS",
+          "room": "SPS",
+          "raw": "4.A SPS (SPS)"
+        }
+      ],
+      "subjects": [
+        "MEC",
+        "PKC",
+        "SPS"
+      ],
+      "duties": "Suplovací pohotovost (SP)\nPá: 7. hod\nDohled v 1. patře (1.P)\nČt: před 1., 4. hod;\nPá: před 4., 7. hod",
+      "pdf": "assets/ondrej-ruzicka.pdf",
+      "photo": "assets/portraits/ondrej-ruzicka-20261103.webp",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-11-03",
+      "fallbackAvatar": "male",
+      "bio": "V komunálních volbách v roce 2026 byl zvolen do Zastupitelstva městské části Praha 4. Další veřejné informace jsou dostupné na webu městské části.",
+      "externalLinks": [
+        {
+          "label": "Veřejný profil · Praha 4",
+          "url": "https://praha4.cz/kontakty-p4/ruzicka-ondrej/"
+        },
+        {
+          "label": "Výsledky voleb 2026 · Praha 4",
+          "url": "https://tucnak.praha4.cz/11-2026/vysledky-komunalnich-voleb-2026"
+        },
+        {
+          "label": "Facebook · dodaná fotografie",
+          "url": "https://www.facebook.com/photo?fbid=1157584033134822&set=pb.100066497079135.-2207520000."
+        }
+      ]
+    },
+    {
+      "id": "radka-stefanakova",
+      "name": "Radka Štefaňáková",
+      "first": "Radka",
+      "last": "Štefaňáková",
+      "title": "Mgr.",
+      "suffix": "",
+      "code": "SR",
+      "role": "učitelka",
+      "room": "kab. 4",
+      "phone": "251092128",
+      "classroom": "",
+      "email": "radka.stefanakova@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 5,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U3",
+          "raw": "1.C CJL (U3)"
+        },
+        {
+          "day": 0,
+          "hour": 7,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "",
+          "subject": "EKO",
+          "room": "U10",
+          "raw": "1.B EKO (U10)"
+        },
+        {
+          "day": 0,
+          "hour": 8,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "",
+          "subject": "EKO",
+          "room": "U10",
+          "raw": "1.B EKO (U10)"
+        },
+        {
+          "day": 1,
+          "hour": 0,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U3",
+          "raw": "1.I CJL (U3)"
+        },
+        {
+          "day": 1,
+          "hour": 1,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U3",
+          "raw": "1.I CJL (U3)"
+        },
+        {
+          "day": 1,
+          "hour": 2,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "SB",
+          "raw": "1.C CJL (SB)"
+        },
+        {
+          "day": 2,
+          "hour": 0,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U3",
+          "raw": "1.I CJL (U3)"
+        },
+        {
+          "day": 2,
+          "hour": 1,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "EKO",
+          "room": "U7",
+          "raw": "1.A EKO (U7)"
+        },
+        {
+          "day": 2,
+          "hour": 2,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U1",
+          "raw": "1.L CJL (U1)"
+        },
+        {
+          "day": 2,
+          "hour": 4,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "",
+          "subject": "EKO",
+          "room": "U15",
+          "raw": "1.C EKO (U15)"
+        },
+        {
+          "day": 2,
+          "hour": 6,
+          "cls": "2.A",
+          "classes": [
+            "2.A"
+          ],
+          "group": "",
+          "subject": "EKO",
+          "room": "U17",
+          "raw": "2.A EKO (U17)"
+        },
+        {
+          "day": 3,
+          "hour": 0,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U3",
+          "raw": "1.I CJL (U3)"
+        },
+        {
+          "day": 3,
+          "hour": 1,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "",
+          "subject": "EKO",
+          "room": "U7",
+          "raw": "1.A EKO (U7)"
+        },
+        {
+          "day": 3,
+          "hour": 2,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "SB",
+          "raw": "1.C CJL (SB)"
+        },
+        {
+          "day": 3,
+          "hour": 3,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "SB",
+          "raw": "1.C CJL (SB)"
+        },
+        {
+          "day": 3,
+          "hour": 6,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U1",
+          "raw": "1.L CJL (U1)"
+        },
+        {
+          "day": 3,
+          "hour": 7,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U1",
+          "raw": "1.L CJL (U1)"
+        },
+        {
+          "day": 4,
+          "hour": 0,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "",
+          "subject": "CJL",
+          "room": "U1",
+          "raw": "1.L CJL (U1)"
+        },
+        {
+          "day": 4,
+          "hour": 1,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "",
+          "subject": "EKO",
+          "room": "U8",
+          "raw": "2.C EKO (U8) 2.P"
+        },
+        {
+          "day": 4,
+          "hour": 2,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "",
+          "subject": "EKO",
+          "room": "SB",
+          "raw": "1.C EKO (SB)"
+        },
+        {
+          "day": 4,
+          "hour": 4,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "",
+          "subject": "EKO",
+          "room": "U15",
+          "raw": "2.B EKO (U15)"
+        }
+      ],
+      "subjects": [
+        "CJL",
+        "EKO"
+      ],
+      "duties": "Suplovací pohotovost (SP)\nČt: 6. hod; Pá: 6. hod\nDohled ve 2. patře (2.P)\nSt: před 4. hod;\nČt: před 5. hod;\nPá: před 2. hod",
+      "pdf": "assets/radka-stefanakova.pdf",
+      "fallbackAvatar": "female",
+      "photo": "assets/portraits/radka-stefanakova-20261104.webp",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-11-04"
+    },
+    {
+      "id": "ladislav-trnka",
+      "name": "Ladislav Trnka",
+      "first": "Ladislav",
+      "last": "Trnka",
+      "title": "Ing.",
+      "suffix": "",
+      "code": "TR",
+      "role": "učitel",
+      "room": "kab. 5",
+      "phone": "251092175",
+      "classroom": "",
+      "email": "ladislav.trnka@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 0,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "2/2",
+          "subject": "ICT",
+          "room": "HRW",
+          "raw": "2/2 1.A ICT(HRW)"
+        },
+        {
+          "day": 0,
+          "hour": 1,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "2/2",
+          "subject": "ICT",
+          "room": "HRW",
+          "raw": "2/2 1.A ICT(HRW)"
+        },
+        {
+          "day": 0,
+          "hour": 2,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U3",
+          "raw": "1.I FYZ (U3)"
+        },
+        {
+          "day": 0,
+          "hour": 3,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "",
+          "subject": "FYZ",
+          "room": "U3",
+          "raw": "1.I FYZ (U3)"
+        },
+        {
+          "day": 0,
+          "hour": 4,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "2/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "2/2 1.B ICT(VYT2)"
+        },
+        {
+          "day": 0,
+          "hour": 5,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "2/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "2/2 1.B ICT(VYT2)"
+        },
+        {
+          "day": 0,
+          "hour": 8,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "1/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "1/2 1.A ICT(VYT2) 1.P"
+        },
+        {
+          "day": 0,
+          "hour": 9,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "1/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "1/2 1.A ICT(VYT2)"
+        },
+        {
+          "day": 1,
+          "hour": 0,
+          "cls": "3.L",
+          "classes": [
+            "3.L"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "U5",
+          "raw": "3.L CHE (U5)"
+        },
+        {
+          "day": 1,
+          "hour": 1,
+          "cls": "3.L",
+          "classes": [
+            "3.L"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "U5",
+          "raw": "3.L CHE (U5)"
+        },
+        {
+          "day": 1,
+          "hour": 2,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "U1",
+          "raw": "1.L CHE (U1)"
+        },
+        {
+          "day": 1,
+          "hour": 6,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "1/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "1/2 1.C ICT(VYT2)"
+        },
+        {
+          "day": 1,
+          "hour": 7,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "1/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "1/2 1.C ICT(VYT2) 1.P"
+        },
+        {
+          "day": 1,
+          "hour": 8,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "1/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "1/2 1.B ICT(VYT2) 1.P"
+        },
+        {
+          "day": 1,
+          "hour": 9,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "1/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "1/2 1.B ICT(VYT2)"
+        },
+        {
+          "day": 2,
+          "hour": 3,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "U1",
+          "raw": "1.L CHE (U1)"
+        },
+        {
+          "day": 2,
+          "hour": 5,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "U16",
+          "raw": "2.L CHE (U16)"
+        },
+        {
+          "day": 2,
+          "hour": 7,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "1/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "1/2 2.B ICT(VYT2) 1.P"
+        },
+        {
+          "day": 2,
+          "hour": 8,
+          "cls": "2.B",
+          "classes": [
+            "2.B"
+          ],
+          "group": "1/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "1/2 2.B ICT(VYT2)"
+        },
+        {
+          "day": 3,
+          "hour": 6,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "U16",
+          "raw": "2.L CHE (U16)"
+        },
+        {
+          "day": 4,
+          "hour": 0,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "2/2",
+          "subject": "ICT",
+          "room": "VYT3",
+          "raw": "2/2 1.C ICT(VYT3)"
+        },
+        {
+          "day": 4,
+          "hour": 1,
+          "cls": "1.C",
+          "classes": [
+            "1.C"
+          ],
+          "group": "2/2",
+          "subject": "ICT",
+          "room": "VYT3",
+          "raw": "2/2 1.C ICT(VYT3)"
+        },
+        {
+          "day": 4,
+          "hour": 3,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "",
+          "subject": "CHE",
+          "room": "U1",
+          "raw": "1.L CHE (U1)"
+        },
+        {
+          "day": 4,
+          "hour": 5,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "2/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "2/2 1.L ICT(VYT2)"
+        },
+        {
+          "day": 4,
+          "hour": 6,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "2/2",
+          "subject": "ICT",
+          "room": "VYT2",
+          "raw": "2/2 1.L ICT(VYT2)"
+        }
+      ],
+      "subjects": [
+        "CHE",
+        "FYZ",
+        "ICT"
+      ],
+      "duties": "Suplovací pohotovost (SP)\nÚt: 6. hod; Čt: 6. hod\nDohled v přízemí (PŘ)\nPá: před 3. hod\nDohled v 1. patře (1.P)\nPo: před 9. hod;\nÚt: před 8., 9. hod;\nSt: před 8. hod",
+      "pdf": "assets/ladislav-trnka.pdf",
+      "photo": "assets/portraits/ladislav-trnka.png",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-10-27",
+      "fallbackAvatar": "male"
+    },
+    {
+      "id": "martin-vyroubal",
+      "name": "Martin Vyroubal",
+      "first": "Martin",
+      "last": "Vyroubal",
+      "title": "",
+      "suffix": "",
+      "code": "VY",
+      "role": "učitel",
+      "room": "kab. 17",
+      "phone": "251092165",
+      "classroom": "2. I",
+      "email": "martin.vyroubal@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu jméno.příjmení v telefonním seznamu.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 1,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "1/2 4.L ANJ(CIJ4)"
+        },
+        {
+          "day": 0,
+          "hour": 2,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "1/2 4.L ANJ(CIJ4) PŘ"
+        },
+        {
+          "day": 0,
+          "hour": 3,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "2/2 3.C ANJ(CIJ4) PŘ"
+        },
+        {
+          "day": 0,
+          "hour": 4,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "2/2 3.C ANJ(CIJ4)"
+        },
+        {
+          "day": 1,
+          "hour": 0,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "2/2 2.I ANJ(CIJ4)"
+        },
+        {
+          "day": 1,
+          "hour": 1,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "2/2 2.I ANJ(CIJ4)"
+        },
+        {
+          "day": 1,
+          "hour": 2,
+          "cls": "3.C",
+          "classes": [
+            "3.C"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "2/2 3.C ANJ(CIJ4) PŘ"
+        },
+        {
+          "day": 1,
+          "hour": 4,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "1/2 2.I ANJ(CIJ4)"
+        },
+        {
+          "day": 1,
+          "hour": 5,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "1/2 2.I ANJ(CIJ4)"
+        },
+        {
+          "day": 2,
+          "hour": 0,
+          "cls": "4.B",
+          "classes": [
+            "4.B"
+          ],
+          "group": "",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "ANJc 4.B ANJ(CIJ4)"
+        },
+        {
+          "day": 2,
+          "hour": 1,
+          "cls": "4.B",
+          "classes": [
+            "4.B"
+          ],
+          "group": "",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "ANJc 4.B ANJ(CIJ4)"
+        },
+        {
+          "day": 2,
+          "hour": 3,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "ANJm 4.A ANJ(CIJ4)"
+        },
+        {
+          "day": 2,
+          "hour": 4,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "ANJm 4.A ANJ(CIJ4)"
+        },
+        {
+          "day": 2,
+          "hour": 5,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "1/2 2.I ANJ(CIJ4)"
+        },
+        {
+          "day": 2,
+          "hour": 6,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "group": "2/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "2/2 2.I ANJ(CIJ4)"
+        },
+        {
+          "day": 3,
+          "hour": 0,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "1/2 1.A ANJ(CIJ4)"
+        },
+        {
+          "day": 3,
+          "hour": 3,
+          "cls": "4.B",
+          "classes": [
+            "4.B"
+          ],
+          "group": "",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "ANJc 4.B ANJ(CIJ4)"
+        },
+        {
+          "day": 3,
+          "hour": 5,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "ANJm 4.A ANJ(CIJ4)"
+        },
+        {
+          "day": 3,
+          "hour": 6,
+          "cls": "4.A",
+          "classes": [
+            "4.A"
+          ],
+          "group": "",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "ANJm 4.A ANJ(CIJ4)"
+        },
+        {
+          "day": 4,
+          "hour": 0,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "1/2 1.A ANJ(CIJ4)"
+        },
+        {
+          "day": 4,
+          "hour": 1,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "1/2 1.A ANJ(CIJ4)"
+        },
+        {
+          "day": 4,
+          "hour": 3,
+          "cls": "4.B",
+          "classes": [
+            "4.B"
+          ],
+          "group": "",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "ANJc 4.B ANJ(CIJ4)"
+        },
+        {
+          "day": 4,
+          "hour": 4,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "1/2 4.L ANJ(CIJ4)"
+        },
+        {
+          "day": 4,
+          "hour": 5,
+          "cls": "4.L",
+          "classes": [
+            "4.L"
+          ],
+          "group": "1/2",
+          "subject": "ANJ",
+          "room": "CIJ4",
+          "raw": "1/2 4.L ANJ(CIJ4)"
+        }
+      ],
+      "subjects": [
+        "ANJ"
+      ],
+      "duties": "Suplovací pohotovost (SP)\nPo: 1. hod; Čt: 2. hod\nDohled v přízemí (PŘ)\nPo: před 3., 4. hod;\nÚt: před 3., 4. hod",
+      "pdf": "assets/martin-vyroubal.pdf",
+      "photo": "assets/portraits/martin-vyroubal-20261103.webp",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-11-03",
+      "fallbackAvatar": "male"
+    },
+    {
+      "id": "lubomir-martinec",
+      "name": "Lubomír Martinec",
+      "first": "Lubomír",
+      "last": "Martinec",
+      "title": "Mgr.",
+      "suffix": "",
+      "code": "ML",
+      "role": "zástupce ředitele",
+      "room": "kancelář zástupců",
+      "phone": "251092101",
+      "email": "lubomir.martinec@betlemska.cz",
+      "emailSource": "Kontakt ověřen ve školních podkladech.",
+      "classroom": "",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 3,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "subject": "MAT",
+          "room": "U1",
+          "group": "",
+          "raw": "1.L MAT (U1)"
+        },
+        {
+          "day": 0,
+          "hour": 6,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "subject": "MAT",
+          "room": "U16",
+          "group": "",
+          "raw": "2.L MAT (U16)"
+        },
+        {
+          "day": 0,
+          "hour": 7,
+          "cls": "4.B",
+          "classes": [
+            "4.B"
+          ],
+          "subject": "MAT",
+          "room": "U20",
+          "group": "",
+          "raw": "4.B MAT (U20)"
+        },
+        {
+          "day": 0,
+          "hour": 8,
+          "cls": "4.B",
+          "classes": [
+            "4.B"
+          ],
+          "subject": "MAT",
+          "room": "U20",
+          "group": "",
+          "raw": "4.B MAT (U20)"
+        },
+        {
+          "day": 1,
+          "hour": 0,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "subject": "MAT",
+          "room": "U1",
+          "group": "",
+          "raw": "1.L MAT (U1)"
+        },
+        {
+          "day": 1,
+          "hour": 1,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "subject": "MAT",
+          "room": "U1",
+          "group": "",
+          "raw": "1.L MAT (U1)"
+        },
+        {
+          "day": 1,
+          "hour": 4,
+          "cls": "4.B",
+          "classes": [
+            "4.B"
+          ],
+          "subject": "MAT",
+          "room": "U12",
+          "group": "",
+          "raw": "4.B MAT (U12)"
+        },
+        {
+          "day": 1,
+          "hour": 7,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "subject": "MAT",
+          "room": "U16",
+          "group": "",
+          "raw": "2.L MAT (U16)"
+        },
+        {
+          "day": 1,
+          "hour": 8,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "subject": "MAT",
+          "room": "U16",
+          "group": "",
+          "raw": "2.L MAT (U16)"
+        },
+        {
+          "day": 4,
+          "hour": 0,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "subject": "MAT",
+          "room": "U16",
+          "group": "",
+          "raw": "2.L MAT (U16)"
+        },
+        {
+          "day": 4,
+          "hour": 2,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "subject": "MAT",
+          "room": "U1",
+          "group": "",
+          "raw": "1.L MAT (U1)"
+        },
+        {
+          "day": 4,
+          "hour": 4,
+          "cls": "4.B",
+          "classes": [
+            "4.B"
+          ],
+          "subject": "MAT",
+          "room": "U12",
+          "group": "",
+          "raw": "4.B MAT (U12)"
+        }
+      ],
+      "subjects": [
+        "MAT"
+      ],
+      "duties": "",
+      "scheduleSource": "assets/lubomir-martinec-rozvrh.jpeg",
+      "scheduleSourceType": "image",
+      "scheduleValidFrom": "2026-10-12",
+      "scheduleAdded": "2026-10-27",
+      "photo": "assets/portraits/lubomir-martinec.png",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-10-27",
+      "fallbackAvatar": "male"
+    },
+    {
+      "id": "martin-theimer",
+      "name": "Martin Theimer",
+      "first": "Martin",
+      "last": "Theimer",
+      "title": "Ing.",
+      "suffix": "",
+      "code": "TM",
+      "role": "statutární zástupce ředitele",
+      "room": "kancelář zástupců",
+      "phone": "251092104",
+      "email": "martin.theimer@betlemska.cz",
+      "emailSource": "Kontakt ověřen ve školních podkladech.",
+      "classroom": "",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 2,
+          "cls": "3.I",
+          "classes": [
+            "3.I"
+          ],
+          "subject": "HRW",
+          "room": "HRW",
+          "group": "1/2",
+          "raw": "1/2 3.I HRW (HRW)"
+        },
+        {
+          "day": 0,
+          "hour": 3,
+          "cls": "3.I",
+          "classes": [
+            "3.I"
+          ],
+          "subject": "HRW",
+          "room": "HRW",
+          "group": "1/2",
+          "raw": "1/2 3.I HRW (HRW)"
+        },
+        {
+          "day": 0,
+          "hour": 6,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "subject": "HRW",
+          "room": "HRW",
+          "group": "2/2",
+          "raw": "2/2 2.I HRW (HRW)"
+        },
+        {
+          "day": 0,
+          "hour": 7,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "subject": "HRW",
+          "room": "HRW",
+          "group": "2/2",
+          "raw": "2/2 2.I HRW (HRW)"
+        },
+        {
+          "day": 1,
+          "hour": 0,
+          "cls": "3.I",
+          "classes": [
+            "3.I"
+          ],
+          "subject": "HRW",
+          "room": "HRW",
+          "group": "2/2",
+          "raw": "2/2 3.I HRW (HRW)"
+        },
+        {
+          "day": 1,
+          "hour": 1,
+          "cls": "3.I",
+          "classes": [
+            "3.I"
+          ],
+          "subject": "HRW",
+          "room": "HRW",
+          "group": "2/2",
+          "raw": "2/2 3.I HRW (HRW)"
+        },
+        {
+          "day": 1,
+          "hour": 2,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "subject": "HRW",
+          "room": "HRW",
+          "group": "1/2",
+          "raw": "1/2 2.I HRW (HRW)"
+        },
+        {
+          "day": 1,
+          "hour": 3,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "subject": "HRW",
+          "room": "HRW",
+          "group": "1/2",
+          "raw": "1/2 2.I HRW (HRW)"
+        },
+        {
+          "day": 1,
+          "hour": 4,
+          "cls": "4.I",
+          "classes": [
+            "4.I"
+          ],
+          "subject": "HRW",
+          "room": "HRW",
+          "group": "2/2",
+          "raw": "2/2 4.I HRW (HRW)"
+        },
+        {
+          "day": 1,
+          "hour": 5,
+          "cls": "4.I",
+          "classes": [
+            "4.I"
+          ],
+          "subject": "HRW",
+          "room": "HRW",
+          "group": "2/2",
+          "raw": "2/2 4.I HRW (HRW)"
+        },
+        {
+          "day": 2,
+          "hour": 7,
+          "cls": "4.I",
+          "classes": [
+            "4.I"
+          ],
+          "subject": "HRW",
+          "room": "HRW",
+          "group": "1/2",
+          "raw": "1/2 4.I HRW (HRW)"
+        },
+        {
+          "day": 2,
+          "hour": 8,
+          "cls": "4.I",
+          "classes": [
+            "4.I"
+          ],
+          "subject": "HRW",
+          "room": "HRW",
+          "group": "1/2",
+          "raw": "1/2 4.I HRW (HRW)"
+        }
+      ],
+      "subjects": [
+        "HRW"
+      ],
+      "duties": "",
+      "scheduleSource": "assets/martin-theimer-rozvrh.jpeg",
+      "scheduleSourceType": "image",
+      "scheduleValidFrom": "2026-10-12",
+      "scheduleAdded": "2026-10-27",
+      "photo": "assets/portraits/martin-theimer.png",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-10-27",
+      "fallbackAvatar": "male",
+      "video": "assets/video/martin-theimer.mp4",
+      "videoEnabled": true
+    },
+    {
+      "id": "miloslav-balek",
+      "name": "Miloslav Bálek",
+      "first": "Miloslav",
+      "last": "Bálek",
+      "title": "Mgr.",
+      "suffix": "",
+      "code": "BA",
+      "role": "učitel",
+      "room": "kab. 18",
+      "phone": "251092141",
+      "classroom": "",
+      "email": "miloslav.balek@betlemska.cz",
+      "emailSource": "Adresa odvozena z formátu ve školním telefonním seznamu 2026/2027.",
+      "schedule": [
+        {
+          "day": 0,
+          "hour": 0,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 1.A TEV(TEV1)"
+        },
+        {
+          "day": 0,
+          "hour": 1,
+          "cls": "1.A",
+          "classes": [
+            "1.A"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 1.A TEV(TEV1)"
+        },
+        {
+          "day": 0,
+          "hour": 2,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 1.B TEV(TEV1)"
+        },
+        {
+          "day": 0,
+          "hour": 3,
+          "cls": "1.B",
+          "classes": [
+            "1.B"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 1.B TEV(TEV1)"
+        },
+        {
+          "day": 0,
+          "hour": 4,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 1.L TEV(TEV2)"
+        },
+        {
+          "day": 0,
+          "hour": 5,
+          "cls": "1.L",
+          "classes": [
+            "1.L"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 1.L TEV(TEV2)"
+        },
+        {
+          "day": 1,
+          "hour": 0,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 2.L TEV(TEV1)"
+        },
+        {
+          "day": 1,
+          "hour": 1,
+          "cls": "2.L",
+          "classes": [
+            "2.L"
+          ],
+          "group": "1/2",
+          "subject": "TEV",
+          "room": "TEV1",
+          "raw": "1/2 2.L TEV(TEV1)"
+        },
+        {
+          "day": 1,
+          "hour": 2,
+          "cls": "3.A",
+          "classes": [
+            "3.A"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 3.A TEV(TEV2)"
+        },
+        {
+          "day": 1,
+          "hour": 3,
+          "cls": "3.A",
+          "classes": [
+            "3.A"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 3.A TEV(TEV2)"
+        },
+        {
+          "day": 1,
+          "hour": 4,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 1.I TEV(TEV2)"
+        },
+        {
+          "day": 1,
+          "hour": 5,
+          "cls": "1.I",
+          "classes": [
+            "1.I"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 1.I TEV(TEV2)"
+        },
+        {
+          "day": 3,
+          "hour": 0,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 2.C TEV(TEV2)"
+        },
+        {
+          "day": 3,
+          "hour": 1,
+          "cls": "2.C",
+          "classes": [
+            "2.C"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 2.C TEV(TEV2)"
+        },
+        {
+          "day": 3,
+          "hour": 2,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 2.I TEV(TEV2)"
+        },
+        {
+          "day": 3,
+          "hour": 3,
+          "cls": "2.I",
+          "classes": [
+            "2.I"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 2.I TEV(TEV2)"
+        },
+        {
+          "day": 3,
+          "hour": 4,
+          "cls": "4.B",
+          "classes": [
+            "4.B"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 4.B TEV(TEV2)"
+        },
+        {
+          "day": 3,
+          "hour": 5,
+          "cls": "4.B",
+          "classes": [
+            "4.B"
+          ],
+          "group": "2/2",
+          "subject": "TEV",
+          "room": "TEV2",
+          "raw": "2/2 4.B TEV(TEV2)"
+        }
+      ],
+      "subjects": [
+        "TEV"
+      ],
+      "duties": "Dohled ve 2. patře (2.P)\nPo: před 1. hod;\nÚt: před 3. hod;\nČt: před 3. hod",
+      "photo": "assets/portraits/miloslav-balek-20261103.webp",
+      "photoKind": "circular-restored",
+      "photoUpdated": "2026-11-03",
+      "fallbackAvatar": "male",
+      "bio": "Učitel tělesné výchovy. Kontakty podle telefonního seznamu školy 2026/2027, rozvrh platný od 12. 10. 2026 podle dodané fotografie.",
+      "scheduleSource": "assets/miloslav-balek-rozvrh.jpeg",
+      "scheduleValidFrom": "2026-10-12"
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-08-24",
+      "title": "Porada s vedoucími předmětových komisí",
+      "time": "9:00",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Zahajovací porada, doklasifikační a opravné zkoušky",
+      "time": "dle rozpisu",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Doklasifikační a opravné zkoušky",
+      "time": "9:00",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-08-31",
+      "title": "Porada",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Zahájení školního roku 2026/2027, společná část MZ",
+      "time": "8:00",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Třídnické hodiny, společná část MZ",
+      "time": "8:00",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Výuka dle platného rozvrhu, společná část MZ",
+      "time": "8:00",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Slavnostní zahájení v Betlémské kapli (focení)",
+      "time": "10:00",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Ústní MZ",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Adrenalinový sportovní kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Adrenalinový sportovní kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Adrenalinový sportovní kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Adrenalinový sportovní kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Adrenalinový sportovní kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Adrenalinový sportovní kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Státní svátek",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Den otevřených dveří",
+      "time": "16-18",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "MSV Brno",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "Státní svátek",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Podzimní prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Podzimní prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "Klasifikační pedagogická porada (14:00), třídní schůzky (17:30)",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "Exkurze - celá škola",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Státní svátek",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Projekt KOSTKA",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Schola Pragenzis",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "Schola Pragenzis",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-11-28",
+      "title": "Schola Pragenzis",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-12-05",
+      "title": "Den otevřených dveří",
+      "time": "10-13",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-12-17",
+      "title": "Maturitní ples v Lucerně",
+      "time": "19:00",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-12-21",
+      "title": "Firmy pro 2.- 4. r., 1.r- sportovní den, 2.r - výběr zaměření",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-12-22",
+      "title": "Kino",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2026-12-23",
+      "title": "Vánoční prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2026-12-24",
+      "title": "Vánoční prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2026-12-25",
+      "title": "Vánoční prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2026-12-28",
+      "title": "Vánoční prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2026-12-29",
+      "title": "Vánoční prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2026-12-30",
+      "title": "Vánoční prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2026-12-31",
+      "title": "Vánoční prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2027-01-01",
+      "title": "Státní svátek",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2027-01-04",
+      "title": "Začátek výuky",
+      "time": "8:00",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-07",
+      "title": "Den otevřených dveří",
+      "time": "16-18",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-08",
+      "title": "Lyžařský výcvikový kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-09",
+      "title": "Lyžařský výcvikový kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-10",
+      "title": "Lyžařský výcvikový kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-11",
+      "title": "Lyžařský výcvikový kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-12",
+      "title": "Lyžařský výcvikový kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-13",
+      "title": "Lyžařský výcvikový kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-14",
+      "title": "Lyžařský výcvikový kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-15",
+      "title": "Lyžařský výcvikový kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-16",
+      "title": "Lyžařský výcvikový kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-17",
+      "title": "Lyžařský výcvikový kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-18",
+      "title": "Lyžařský výcvikový kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-19",
+      "title": "Lyžařský výcvikový kurz - Rakousko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-22",
+      "title": "Uzavření klasifikace za první pololetí 2026/2027 do 12:00",
+      "time": "12:00",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-25",
+      "title": "Pololetní pedagogická porada",
+      "time": "15:00",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-28",
+      "title": "Předání výpisu z vysvědčení za 1. pololetí",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-01-29",
+      "title": "Pololetní prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2027-02-02",
+      "title": "Den otevřených dveří",
+      "time": "16-18",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-02-22",
+      "title": "Jarní prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2027-02-23",
+      "title": "Jarní prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2027-02-24",
+      "title": "Jarní prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2027-02-25",
+      "title": "Jarní prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2027-02-26",
+      "title": "Jarní prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2027-03-25",
+      "title": "Velikonoční prázdniny",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2027-03-26",
+      "title": "Velký pátek",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2027-03-29",
+      "title": "Velikonoční pondělí",
+      "time": "",
+      "kind": "volno"
+    },
+    {
+      "date": "2027-04-14",
+      "title": "Třičvrtěletní pedagogická (14:00), třídní schůzky (17:30)",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-04-23",
+      "title": "Ukončení klasifikace 4. ročníků",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-04-26",
+      "title": "Klasifikační porada 4. ročníků",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-04-30",
+      "title": "Vydání vysvědčení 4. ročníkům",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-05-16",
+      "title": "Letní sportovní kurz - Chorvatsko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-05-17",
+      "title": "Letní sportovní kurz - Chorvatsko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-05-18",
+      "title": "Letní sportovní kurz - Chorvatsko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-05-19",
+      "title": "Letní sportovní kurz - Chorvatsko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-05-20",
+      "title": "Letní sportovní kurz - Chorvatsko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-05-21",
+      "title": "Letní sportovní kurz - Chorvatsko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-05-22",
+      "title": "Letní sportovní kurz - Chorvatsko",
+      "time": "",
+      "kind": "akce"
+    },
+    {
+      "date": "2027-06-30",
+      "title": "Ukončení školního roku 2026/2027",
+      "time": "",
+      "kind": "akce"
+    }
+  ],
+  "updated": "2026-10-27",
+  "validFrom": "2026-10-12",
+  "assetSources": {
+    "logo": "https://www.betlemska.cz/templates/betlemska/img/logo-betlemska.png",
+    "building": "https://www.betlemska.cz/images/minigalerie/budova/1kola-pohled_od_rotundy.jpg",
+    "tour": "https://my.matterport.com/show/?m=46boANgBwEt",
+    "gallery": "https://www.betlemska.cz/galerie/prohlidka-skoly"
+  },
+  "teacherCount": 19,
+  "photoCount": 8
+}
