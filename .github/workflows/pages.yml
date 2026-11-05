@@ -1,0 +1,74 @@
+name: Web a automatický jídelníček
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+  schedule:
+    - cron: '7,17,27,37,47,57 4-15 * * 1-5'
+    - cron: '17 3 * * *'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+
+      - name: Nastavit Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Zachovat poslední zveřejněnou nabídku
+        env:
+          PAGES_URL: ${{ steps.pages.outputs.base_url }}
+        run: python tools/restore-lunch.py "$PAGES_URL"
+
+      - name: Stáhnout aktuální nabídku
+        id: lunch
+        continue-on-error: true
+        run: python tools/update-lunch.py --output assets/lunch.json
+
+      - name: Upozornit na výpadek jídelny
+        if: steps.lunch.outcome == 'failure'
+        run: echo '::warning::Jídelna není dostupná. Zachována poslední datovaná nabídka.'
+
+      - name: Sestavit statickou verzi
+        run: python tools/prepare-pages.py
+
+      - name: Zkontrolovat export
+        run: |
+          python tools/security-check.py --export _site
+          python -m unittest discover -s tests -p 'test_*.py'
+          node tests/static-export.cjs
+          node tests/offline.cjs
+          node tests/daily-tools.cjs
+          node tests/menu-parser.test.mjs
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: Zveřejnit
+        id: deployment
+        uses: actions/deploy-pages@v4
