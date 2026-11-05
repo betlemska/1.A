@@ -35,7 +35,7 @@ self.addEventListener('install', event => {
       await cache.addAll(
         CORE.map(path => new URL(path, self.registration.scope).href)
       );
-      await self.skipWaiting();
+      await self.skipWaiting?.();
     })
   );
 });
@@ -69,7 +69,7 @@ self.addEventListener('fetch', event => {
 
   // Video, audio a požadavky na části souborů obsluhuje přímo prohlížeč.
   if (
-    request.headers.has('range') ||
+    request.headers?.has('range') ||
     request.destination === 'video' ||
     request.destination === 'audio' ||
     /\.(?:mp4|m4v|webm|mov|mp3|m4a|ogg|wav)$/i.test(relative)
