@@ -10,6 +10,7 @@
     const day=new Date(date+'T12:00:00Z').getUTCDay()-1;
     const absent=detail=>({cls:'no',label:'Mimo školu',detail});
     if(day<0||day>4)return absent('Víkend. Předpokládaná nepřítomnost podle rozvrhu.');
+    if(events.some(e=>e.date===date&&e.allDay===true))return {cls:'unknown',label:'Školní akce',detail:'Celodenní školní akce bez běžné výuky. Přítomnost učitele nelze odvodit ze stálého rozvrhu.'};
     if(events.some(e=>e.date===date&&e.kind==='volno'))return absent('Prázdniny nebo svátek podle školního kalendáře.');
     const lessons=teacher.schedule.filter(l=>l.day===day&&hours[l.hour]);
     if(!lessons.length)return absent('Na dnešek není v dodaném rozvrhu uvedená výuka.');

@@ -300,7 +300,13 @@
       "photo": "assets/portraits/lucie-asali.png",
       "photoKind": "circular-restored",
       "photoUpdated": "2026-10-27",
-      "fallbackAvatar": "female"
+      "fallbackAvatar": "female",
+      "externalLinks": [
+        {
+          "label": "DofE · vedoucí programu na škole",
+          "url": "https://www.betlemska.cz/images/soubory/prispevky/DOFE/DOFE_web.pdf"
+        }
+      ]
     },
     {
       "id": "karel-bernat",
@@ -2597,7 +2603,13 @@
       "photo": "assets/portraits/jakub-petrak.png",
       "photoKind": "circular-restored",
       "photoUpdated": "2026-10-27",
-      "fallbackAvatar": "male"
+      "fallbackAvatar": "male",
+      "externalLinks": [
+        {
+          "label": "Osobní web · trenér a výživový poradce",
+          "url": "https://www.jakubpetrak.com/o-mne/"
+        }
+      ]
     },
     {
       "id": "hynek-petros",
@@ -2676,8 +2688,13 @@
         {
           "label": "Facebook",
           "url": "https://www.facebook.com/hynek.petros.5"
+        },
+        {
+          "label": "Bakalářská práce · repozitář UK",
+          "url": "https://dspace.cuni.cz/handle/20.500.11956/212821"
         }
-      ]
+      ],
+      "birthDate": "2002-02-21"
     },
     {
       "id": "barbora-pivonkova",
@@ -3317,7 +3334,13 @@
       "photo": "assets/portraits/michal-prutyszyn-20261103.webp",
       "photoKind": "circular-restored",
       "photoUpdated": "2026-11-03",
-      "fallbackAvatar": "male"
+      "fallbackAvatar": "male",
+      "externalLinks": [
+        {
+          "label": "Rozhovor · AI ve školství",
+          "url": "https://www.mmspektrum.com/clanek/ai-ve-skolstvi-pro-a-proti-nastroj-s-obrovskym-potencialem"
+        }
+      ]
     },
     {
       "id": "ondrej-ruzicka",
@@ -3651,6 +3674,10 @@
         {
           "label": "Facebook · dodaná fotografie",
           "url": "https://www.facebook.com/photo?fbid=1157584033134822&set=pb.100066497079135.-2207520000."
+        },
+        {
+          "label": "StreTech 2024 · vedený studentský projekt",
+          "url": "https://stretech.fs.cvut.cz/2024/sbornik_2024/pdf/69.pdf"
         }
       ]
     },
@@ -3931,7 +3958,13 @@
       "fallbackAvatar": "female",
       "photo": "assets/portraits/radka-stefanakova-20261104.webp",
       "photoKind": "circular-restored",
-      "photoUpdated": "2026-11-04"
+      "photoUpdated": "2026-11-04",
+      "externalLinks": [
+        {
+          "label": "Rozhovor · Vzdělávat, ale neosekávat hrany",
+          "url": "https://www.sliving.cz/volny-cas/665-radka-stefanakova-vzdelavat-ale-neosekavat-hrany"
+        }
+      ]
     },
     {
       "id": "ladislav-trnka",
@@ -4573,7 +4606,13 @@
       "photo": "assets/portraits/martin-vyroubal-20261103.webp",
       "photoKind": "circular-restored",
       "photoUpdated": "2026-11-03",
-      "fallbackAvatar": "male"
+      "fallbackAvatar": "male",
+      "externalLinks": [
+        {
+          "label": "Školská rada · web školy",
+          "url": "https://betlemska.cz/o-skole/skolska-rada"
+        }
+      ]
     },
     {
       "id": "lubomir-martinec",
@@ -5165,7 +5204,13 @@
       "fallbackAvatar": "male",
       "bio": "Učitel tělesné výchovy. Kontakty podle telefonního seznamu školy 2026/2027, rozvrh platný od 12. 10. 2026 podle dodané fotografie.",
       "scheduleSource": "assets/miloslav-balek-rozvrh.jpeg",
-      "scheduleValidFrom": "2026-10-12"
+      "scheduleValidFrom": "2026-10-12",
+      "externalLinks": [
+        {
+          "label": "Tenis Akademie Bálek",
+          "url": "https://www.tenisakademiebalek.cz/"
+        }
+      ]
     }
   ],
   "events": [

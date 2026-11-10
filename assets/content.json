@@ -1,20 +1,60 @@
 {
   "content": {
     "intro": "Tuto stránku vytvořil Oskar Kubíček, předseda třídy 1. A 2026/2027",
-    "posts": [],
+    "posts": [
+      {
+        "id": "e8f8f63c-18da-4ed6-893a-5ba8a764d32b",
+        "title": "Šéfa nerušte, šéf si čte.",
+        "body": "",
+        "date": "2026-11-09",
+        "status": "published",
+        "author": "jiri",
+        "authorName": "Kundrát",
+        "category": "Ze školy",
+        "cover": "",
+        "excerpt": ""
+      }
+    ],
+    "lessonChanges": [
+      {
+        "id": "change-fbef4a5a-8c91-4d9f-aae6-a0f05e24ca18",
+        "date": "2026-11-10",
+        "hour": 3,
+        "originalTeacherId": "hynek-petros",
+        "group": "",
+        "kind": "replace",
+        "subject": "EKO",
+        "teacherId": "radka-stefanakova",
+        "room": "U7",
+        "note": ""
+      },
+      {
+        "id": "change-b45dd0ea-aebf-49a2-9b91-23b8f4be4e0f",
+        "date": "2026-11-10",
+        "hour": 4,
+        "originalTeacherId": "hynek-petros",
+        "group": "",
+        "kind": "replace",
+        "subject": "STT",
+        "teacherId": "miriam-humeova",
+        "room": "U7",
+        "note": ""
+      }
+    ],
     "exams": [
       {
-        "id": "pisemka-6c439838-2456-40e6-b700-9053b21c544a",
-        "date": "2026-11-11",
-        "title": "Reakce v podporách nosníků",
-        "subject": "Mechanika",
+        "id": "pisemka-5b95adea-a1a7-4a2b-af75-a0e3fecfd22a",
+        "date": "2026-11-13",
+        "title": "Test",
+        "subject": "Matematika",
         "cls": "1.A",
-        "time": "3-4",
+        "hour": 3,
+        "time": "4. hodina · 10:40–11:25",
         "group": "",
-        "teacherId": "karel-bernat",
+        "teacherId": "hynek-petros",
         "notes": "",
-        "author": "kubicek",
-        "authorName": "kubicek"
+        "author": "jiri",
+        "authorName": "Kundrát"
       }
     ],
     "links": [],
@@ -318,6 +358,7 @@
         "duties": "Suplovací pohotovost (SP)\nPo: 4. hod; Čt: 5. hod\nDohled v přízemí (PŘ)\nSt: před 4. hod;\nČt: před 6. hod\nDohled v jídelně (JD)\nSt: před 5. hod;\nČt: před 8. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-10-27",
+        "birthDate": "",
         "fallbackAvatar": "female",
         "videoEnabled": true,
         "bio": "",
@@ -325,6 +366,10 @@
           {
             "label": "Facebook",
             "url": "https://www.facebook.com/lucie.asali"
+          },
+          {
+            "label": "DofE · vedoucí programu na škole",
+            "url": "https://www.betlemska.cz/images/soubory/prispevky/DOFE/DOFE_web.pdf"
           }
         ],
         "photo": "assets/portraits/lucie-asali.png",
@@ -348,7 +393,7 @@
             "group": "",
             "subject": "MEC",
             "room": "U10",
-            "raw": "1.B MEC (U10)"
+            "raw": ""
           },
           {
             "day": 0,
@@ -360,7 +405,7 @@
             "group": "",
             "subject": "MEC",
             "room": "U10",
-            "raw": "1.B MEC (U10)"
+            "raw": ""
           },
           {
             "day": 0,
@@ -372,7 +417,7 @@
             "group": "",
             "subject": "MEC",
             "room": "U7",
-            "raw": "1.A MEC (U7)"
+            "raw": ""
           },
           {
             "day": 0,
@@ -384,7 +429,7 @@
             "group": "",
             "subject": "MEC",
             "room": "U8",
-            "raw": "2.C MEC (U8)"
+            "raw": ""
           },
           {
             "day": 0,
@@ -398,7 +443,7 @@
             "group": "",
             "subject": "TVB",
             "room": "U12",
-            "raw": "TVB 4.A 4.B 4.C TVB(U12)"
+            "raw": ""
           },
           {
             "day": 1,
@@ -412,7 +457,7 @@
             "group": "",
             "subject": "TVB",
             "room": "STT",
-            "raw": "TVB 3.A 3.B 3.C TVB(STT)"
+            "raw": ""
           },
           {
             "day": 1,
@@ -426,7 +471,7 @@
             "group": "",
             "subject": "TVB",
             "room": "STT",
-            "raw": "TVB 3.A 3.B 3.C TVB(STT)"
+            "raw": ""
           },
           {
             "day": 1,
@@ -438,7 +483,7 @@
             "group": "",
             "subject": "MEC",
             "room": "U7",
-            "raw": "1.A MEC (U7)"
+            "raw": ""
           },
           {
             "day": 1,
@@ -450,7 +495,7 @@
             "group": "",
             "subject": "MEC",
             "room": "U10",
-            "raw": "1.B MEC (U10)"
+            "raw": ""
           },
           {
             "day": 1,
@@ -464,7 +509,7 @@
             "group": "",
             "subject": "PVB",
             "room": "U21",
-            "raw": "TVB 4.A 4.B 4.C PVB(U21)"
+            "raw": ""
           },
           {
             "day": 1,
@@ -478,7 +523,7 @@
             "group": "",
             "subject": "PVB",
             "room": "U21",
-            "raw": "TVB 4.A 4.B 4.C PVB(U21)"
+            "raw": ""
           },
           {
             "day": 1,
@@ -492,7 +537,7 @@
             "group": "",
             "subject": "PVB",
             "room": "U21",
-            "raw": "TVB 4.A 4.B 4.C PVB(U21)"
+            "raw": ""
           },
           {
             "day": 2,
@@ -506,7 +551,7 @@
             "group": "",
             "subject": "TVB",
             "room": "STT",
-            "raw": "TVB 4.A 4.B 4.C TVB(STT)"
+            "raw": ""
           },
           {
             "day": 2,
@@ -520,19 +565,7 @@
             "group": "",
             "subject": "TVB",
             "room": "STT",
-            "raw": "TVB 4.A 4.B 4.C TVB(STT)"
-          },
-          {
-            "day": 2,
-            "hour": 2,
-            "classes": [
-              "1.A"
-            ],
-            "cls": "1.A",
-            "group": "",
-            "subject": "MEC",
-            "room": "U7",
-            "raw": "1.A MEC (U7)"
+            "raw": ""
           },
           {
             "day": 2,
@@ -544,7 +577,7 @@
             "group": "",
             "subject": "MEC",
             "room": "U7",
-            "raw": "1.A MEC (U7)"
+            "raw": ""
           },
           {
             "day": 2,
@@ -558,7 +591,7 @@
             "group": "",
             "subject": "PVB",
             "room": "U21",
-            "raw": "TVB 3.A 3.B 3.C PVB(U21)"
+            "raw": ""
           },
           {
             "day": 2,
@@ -572,7 +605,7 @@
             "group": "",
             "subject": "PVB",
             "room": "U21",
-            "raw": "TVB 3.A 3.B 3.C PVB(U21)"
+            "raw": ""
           },
           {
             "day": 3,
@@ -584,7 +617,7 @@
             "group": "",
             "subject": "MEC",
             "room": "U8",
-            "raw": "2.C MEC (U8)"
+            "raw": ""
           },
           {
             "day": 3,
@@ -596,7 +629,7 @@
             "group": "",
             "subject": "MEC",
             "room": "U8",
-            "raw": "2.C MEC (U8)"
+            "raw": ""
           },
           {
             "day": 4,
@@ -608,7 +641,19 @@
             "group": "",
             "subject": "MEC",
             "room": "U10",
-            "raw": "1.B MEC (U10)"
+            "raw": ""
+          },
+          {
+            "day": 2,
+            "hour": 2,
+            "classes": [
+              "1.A"
+            ],
+            "cls": "1.A",
+            "group": "",
+            "subject": "MEC",
+            "room": "U7",
+            "raw": ""
           }
         ],
         "subjects": [
@@ -620,7 +665,7 @@
         "suffix": "",
         "code": "BK",
         "role": "učitel",
-        "room": "kab. 15",
+        "room": "U10",
         "phone": "251092136",
         "classroom": "",
         "email": "karel.bernat@betlemska.cz",
@@ -628,6 +673,7 @@
         "duties": "Suplovací pohotovost (SP)\nSt: 5. hod; Pá: 2. hod\nDohled ve 2. patře (2.P)\nÚt: před 4. hod\nDohled v jídelně (JD)\nPo: před 5. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-11-04",
+        "birthDate": "",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "",
@@ -635,6 +681,14 @@
           {
             "label": "Instagram",
             "url": "https://www.instagram.com/bernat_karel/"
+          },
+          {
+            "label": "Youtube",
+            "url": "https://www.youtube.com/@karelbernat5900"
+          },
+          {
+            "label": "Youtube",
+            "url": "https://www.youtube.com/@karelbernat3781"
           }
         ],
         "photo": "assets/portraits/karel-bernat-20261104.png",
@@ -832,6 +886,7 @@
         "duties": "Dohled v přízemí (PŘ)\nSt: před 3. hod\nDohled v 1. patře (1.P)\nÚt: před 7. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-11-03",
+        "birthDate": "",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "",
@@ -1139,6 +1194,7 @@
         "duties": "Suplovací pohotovost (SP)\nPo: 6. hod; St: 4. hod\nDohled ve 2. patře (2.P)\nSt: před 5. hod\nDohled v jídelně (JD)\nPo: před 8. hod;\nÚt: před 6. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-11-03",
+        "birthDate": "",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "",
@@ -1441,6 +1497,7 @@
         "duties": "Suplovací pohotovost (SP)\nČt: 3. hod; Pá: 5. hod\nDohled v 1. patře (1.P)\nČt: před 9. hod;\nPá: před 6. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-11-03",
+        "birthDate": "",
         "fallbackAvatar": "female",
         "videoEnabled": true,
         "bio": "",
@@ -1763,6 +1820,7 @@
         "duties": "Suplovací pohotovost (SP)\nPo: 3. hod; Pá: 4. hod\nDohled v přízemí (PŘ)\nPo: před 2. hod;\nSt: před 2., 8., 9. hod;\nČt: před 7., 8. hod\nDohled v jídelně (JD)\nÚt: před 5. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-10-27",
+        "birthDate": "",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "",
@@ -1788,7 +1846,7 @@
             "group": "",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "3.I TEV (TEV1)"
+            "raw": ""
           },
           {
             "day": 0,
@@ -1800,7 +1858,7 @@
             "group": "",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "3.I TEV (TEV1)"
+            "raw": ""
           },
           {
             "day": 1,
@@ -1812,7 +1870,7 @@
             "group": "2/2",
             "subject": "TEV",
             "room": "TEV2",
-            "raw": "2/2 2.L TEV(TEV2)"
+            "raw": ""
           },
           {
             "day": 1,
@@ -1824,7 +1882,7 @@
             "group": "2/2",
             "subject": "TEV",
             "room": "TEV2",
-            "raw": "2/2 2.L TEV(TEV2)"
+            "raw": ""
           },
           {
             "day": 1,
@@ -1836,7 +1894,7 @@
             "group": "1/2",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "1/2 3.A TEV(TEV1)"
+            "raw": ""
           },
           {
             "day": 1,
@@ -1848,7 +1906,7 @@
             "group": "1/2",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "1/2 3.A TEV(TEV1)"
+            "raw": ""
           },
           {
             "day": 2,
@@ -1860,7 +1918,7 @@
             "group": "1/2",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "1/2 3.L TEV(TEV1)"
+            "raw": ""
           },
           {
             "day": 2,
@@ -1872,7 +1930,7 @@
             "group": "1/2",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "1/2 3.L TEV(TEV1)"
+            "raw": ""
           },
           {
             "day": 2,
@@ -1884,7 +1942,7 @@
             "group": "1/2",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "1/2 4.L TEV(TEV1)"
+            "raw": ""
           },
           {
             "day": 2,
@@ -1896,7 +1954,7 @@
             "group": "1/2",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "1/2 4.L TEV(TEV1)"
+            "raw": ""
           },
           {
             "day": 3,
@@ -1908,7 +1966,7 @@
             "group": "1/2",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "1/2 2.C TEV(TEV1)"
+            "raw": ""
           },
           {
             "day": 3,
@@ -1920,7 +1978,7 @@
             "group": "1/2",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "1/2 2.C TEV(TEV1)"
+            "raw": ""
           },
           {
             "day": 3,
@@ -1932,7 +1990,7 @@
             "group": "1/2",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "1/2 2.I TEV(TEV1)"
+            "raw": ""
           },
           {
             "day": 3,
@@ -1944,7 +2002,7 @@
             "group": "1/2",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "1/2 2.I TEV(TEV1)"
+            "raw": ""
           },
           {
             "day": 3,
@@ -1956,7 +2014,7 @@
             "group": "1/2",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "1/2 4.B TEV(TEV1)"
+            "raw": ""
           },
           {
             "day": 3,
@@ -1968,7 +2026,7 @@
             "group": "1/2",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "1/2 4.B TEV(TEV1)"
+            "raw": ""
           },
           {
             "day": 3,
@@ -1980,7 +2038,7 @@
             "group": "2/2",
             "subject": "TEV",
             "room": "TEV2",
-            "raw": "2/2 1.C TEV(TEV2)"
+            "raw": ""
           },
           {
             "day": 3,
@@ -1992,7 +2050,7 @@
             "group": "2/2",
             "subject": "TEV",
             "room": "TEV2",
-            "raw": "2/2 1.C TEV(TEV2)"
+            "raw": ""
           },
           {
             "day": 4,
@@ -2004,7 +2062,7 @@
             "group": "1/2",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "1/2 1.C TEV(TEV1)"
+            "raw": ""
           },
           {
             "day": 4,
@@ -2016,7 +2074,7 @@
             "group": "1/2",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "1/2 1.C TEV(TEV1)"
+            "raw": ""
           },
           {
             "day": 4,
@@ -2028,7 +2086,7 @@
             "group": "",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "4.A TEV (TEV1)"
+            "raw": ""
           },
           {
             "day": 4,
@@ -2040,7 +2098,7 @@
             "group": "",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "4.A TEV (TEV1)"
+            "raw": ""
           },
           {
             "day": 4,
@@ -2052,7 +2110,7 @@
             "group": "",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "4.I TEV (TEV1)"
+            "raw": ""
           },
           {
             "day": 4,
@@ -2064,7 +2122,7 @@
             "group": "",
             "subject": "TEV",
             "room": "TEV1",
-            "raw": "4.I TEV (TEV1)"
+            "raw": ""
           }
         ],
         "subjects": [
@@ -2074,7 +2132,7 @@
         "suffix": "",
         "code": "LV",
         "role": "učitel",
-        "room": "kab. 18",
+        "room": "TEV1",
         "phone": "251092141",
         "classroom": "3. I",
         "email": "vladislav.liszok@betlemska.cz",
@@ -2082,10 +2140,20 @@
         "duties": "Suplovací pohotovost (SP)\nPo: 6. hod; St: 5. hod\nDohled v jídelně (JD)\nČt: před 7. hod;\nPá: před 7. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-11-03",
+        "birthDate": "",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "",
-        "externalLinks": [],
+        "externalLinks": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/liszokvladislav/"
+          },
+          {
+            "label": "Programy do voleb",
+            "url": "https://programydovoleb.cz/volby/komunalni-volby/103/kandidat/657726"
+          }
+        ],
         "photo": "assets/portraits/vladislav-liszok-20261103.webp",
         "pdf": "assets/vladislav-liszok.pdf",
         "scheduleSource": "",
@@ -2392,6 +2460,7 @@
         "duties": "Suplovací pohotovost (SP)\nÚt: 1. hod; Pá: 4. hod\nDohled ve 2. patře (2.P)\nÚt: před 2. hod;\nSt: před 7. hod;\nČt: před 7. hod;\nPá: před 7. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-11-03",
+        "birthDate": "",
         "fallbackAvatar": "female",
         "videoEnabled": true,
         "bio": "",
@@ -2668,10 +2737,16 @@
         "duties": "Dohled ve 2. patře (2.P)\nÚt: před 5., 7. hod;\nSt: před 3. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-10-27",
+        "birthDate": "",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "",
-        "externalLinks": [],
+        "externalLinks": [
+          {
+            "label": "Osobní web · trenér a výživový poradce",
+            "url": "https://www.jakubpetrak.com/o-mne/"
+          }
+        ],
         "photo": "assets/portraits/jakub-petrak.png",
         "pdf": "assets/jakub-petrak.pdf",
         "scheduleSource": "",
@@ -2747,6 +2822,7 @@
         "duties": "Dohled v 1. patře (1.P)\nÚt: před 5. hod;\nPá: před 5. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-11-03",
+        "birthDate": "2002-02-21",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "",
@@ -2754,6 +2830,10 @@
           {
             "label": "Facebook",
             "url": "https://www.facebook.com/hynek.petros.5"
+          },
+          {
+            "label": "Bakalářská práce · repozitář UK",
+            "url": "https://dspace.cuni.cz/handle/20.500.11956/212821"
           }
         ],
         "photo": "assets/portraits/hynek-petros-20261103.webp",
@@ -3036,6 +3116,7 @@
         "duties": "Suplovací pohotovost (SP)\nÚt: 6. hod; St: 2. hod\nDohled v přízemí (PŘ)\nČt: před 3. hod\nDohled ve 2. patře (2.P)\nPo: před 5. hod\nDohled v jídelně (JD)\nPo: před 6. hod",
         "photoKind": "",
         "photoUpdated": "",
+        "birthDate": "",
         "fallbackAvatar": "female",
         "videoEnabled": true,
         "bio": "",
@@ -3331,6 +3412,7 @@
         "duties": "Suplovací pohotovost (SP)\nPo: 4. hod; Čt: 4. hod\nDohled v přízemí (PŘ)\nPo: před 6., 7. hod;\nPá: před 4. hod\nDohled v jídelně (JD)\nPá: před 8. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-10-27",
+        "birthDate": "",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "",
@@ -3410,6 +3492,7 @@
         "duties": "",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-11-03",
+        "birthDate": "",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "",
@@ -3417,6 +3500,10 @@
           {
             "label": "Facebook",
             "url": "https://www.facebook.com/michal.prutyszyn"
+          },
+          {
+            "label": "Rozhovor · AI ve školství",
+            "url": "https://www.mmspektrum.com/clanek/ai-ve-skolstvi-pro-a-proti-nastroj-s-obrovskym-potencialem"
           }
         ],
         "photo": "assets/portraits/michal-prutyszyn-20261103.webp",
@@ -3740,6 +3827,7 @@
         "duties": "Suplovací pohotovost (SP)\nPá: 7. hod\nDohled v 1. patře (1.P)\nČt: před 1., 4. hod;\nPá: před 4., 7. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-11-03",
+        "birthDate": "",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "V komunálních volbách v roce 2026 byl zvolen do Zastupitelstva městské části Praha 4. Další veřejné informace jsou dostupné na webu městské části.",
@@ -3755,6 +3843,10 @@
           {
             "label": "Facebook",
             "url": "https://www.facebook.com/ORuzickaMCPraha4"
+          },
+          {
+            "label": "StreTech 2024 · vedený studentský projekt",
+            "url": "https://stretech.fs.cvut.cz/2024/sbornik_2024/pdf/69.pdf"
           }
         ],
         "photo": "assets/portraits/ondrej-ruzicka-20261103.webp",
@@ -4037,6 +4129,7 @@
         "duties": "Suplovací pohotovost (SP)\nČt: 6. hod; Pá: 6. hod\nDohled ve 2. patře (2.P)\nSt: před 4. hod;\nČt: před 5. hod;\nPá: před 2. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-11-04",
+        "birthDate": "",
         "fallbackAvatar": "female",
         "videoEnabled": true,
         "bio": "",
@@ -4048,6 +4141,10 @@
           {
             "label": "Web",
             "url": "https://www.radka.at/?fbclid=IwY2xjawVWruNleHRuA2FlbQIxMABwZG9mAWJyaWQRMHIxTzJQdkZXQ0hhN0NYSzhzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfbGDK91dARMeUqduB6o8wbldPU6f2_HgbmoFfd1bHKwfP-K-O--HI6mC2v9M_aem_fm5dICVHCd3PVMQ0vSpZLg"
+          },
+          {
+            "label": "Rozhovor · Vzdělávat, ale neosekávat hrany",
+            "url": "https://www.sliving.cz/volny-cas/665-radka-stefanakova-vzdelavat-ale-neosekavat-hrany"
           }
         ],
         "photo": "assets/portraits/radka-stefanakova-20261104.webp",
@@ -4379,6 +4476,7 @@
         "duties": "Suplovací pohotovost (SP)\nÚt: 6. hod; Čt: 6. hod\nDohled v přízemí (PŘ)\nPá: před 3. hod\nDohled v 1. patře (1.P)\nPo: před 9. hod;\nÚt: před 8., 9. hod;\nSt: před 8. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-10-27",
+        "birthDate": "",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "",
@@ -4698,10 +4796,16 @@
         "duties": "Suplovací pohotovost (SP)\nPo: 1. hod; Čt: 2. hod\nDohled v přízemí (PŘ)\nPo: před 3., 4. hod;\nÚt: před 3., 4. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-11-03",
+        "birthDate": "",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "",
-        "externalLinks": [],
+        "externalLinks": [
+          {
+            "label": "Školská rada · web školy",
+            "url": "https://betlemska.cz/o-skole/skolska-rada"
+          }
+        ],
         "photo": "assets/portraits/martin-vyroubal-20261103.webp",
         "pdf": "assets/martin-vyroubal.pdf",
         "scheduleSource": "",
@@ -4873,6 +4977,7 @@
         "duties": "",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-10-27",
+        "birthDate": "",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "",
@@ -5048,6 +5153,7 @@
         "duties": "",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-10-27",
+        "birthDate": "",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "",
@@ -5295,17 +5401,834 @@
         "duties": "Dohled ve 2. patře (2.P)\nPo: před 1. hod;\nÚt: před 3. hod;\nČt: před 3. hod",
         "photoKind": "circular-restored",
         "photoUpdated": "2026-11-03",
+        "birthDate": "",
         "fallbackAvatar": "male",
         "videoEnabled": true,
         "bio": "Učitel tělesné výchovy. Kontakty podle telefonního seznamu školy 2026/2027, rozvrh platný od 12. 10. 2026 podle dodané fotografie.",
-        "externalLinks": [],
+        "externalLinks": [
+          {
+            "label": "Tenis Akademie Bálek",
+            "url": "https://www.tenisakademiebalek.cz/"
+          }
+        ],
         "photo": "assets/portraits/miloslav-balek-20261103.webp",
         "pdf": "",
         "scheduleSource": "assets/miloslav-balek-rozvrh.jpeg",
         "video": ""
       }
     ],
-    "events": null,
+    "events": [
+      {
+        "id": "event-0",
+        "date": "2026-08-24",
+        "title": "Porada s vedoucími předmětových komisí",
+        "time": "9:00",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-1",
+        "date": "2026-08-25",
+        "title": "Zahajovací porada, doklasifikační a opravné zkoušky",
+        "time": "dle rozpisu",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-2",
+        "date": "2026-08-28",
+        "title": "Doklasifikační a opravné zkoušky",
+        "time": "9:00",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-3",
+        "date": "2026-08-31",
+        "title": "Porada",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-4",
+        "date": "2026-09-01",
+        "title": "Zahájení školního roku 2026/2027, společná část MZ",
+        "time": "8:00",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-5",
+        "date": "2026-09-02",
+        "title": "Třídnické hodiny, společná část MZ",
+        "time": "8:00",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-6",
+        "date": "2026-09-03",
+        "title": "Výuka dle platného rozvrhu, společná část MZ",
+        "time": "8:00",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-7",
+        "date": "2026-09-07",
+        "title": "Slavnostní zahájení v Betlémské kapli (focení)",
+        "time": "10:00",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-8",
+        "date": "2026-09-11",
+        "title": "Ústní MZ",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-9",
+        "date": "2026-09-20",
+        "title": "Adrenalinový sportovní kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-10",
+        "date": "2026-09-21",
+        "title": "Adrenalinový sportovní kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-11",
+        "date": "2026-09-22",
+        "title": "Adrenalinový sportovní kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-12",
+        "date": "2026-09-23",
+        "title": "Adrenalinový sportovní kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-13",
+        "date": "2026-09-24",
+        "title": "Adrenalinový sportovní kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-14",
+        "date": "2026-09-25",
+        "title": "Adrenalinový sportovní kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-15",
+        "date": "2026-09-28",
+        "title": "Státní svátek",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-16",
+        "date": "2026-10-07",
+        "title": "Den otevřených dveří",
+        "time": "16-18",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-17",
+        "date": "2026-10-08",
+        "title": "MSV Brno",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-18",
+        "date": "2026-10-28",
+        "title": "Státní svátek",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-19",
+        "date": "2026-10-29",
+        "title": "Podzimní prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-20",
+        "date": "2026-10-30",
+        "title": "Podzimní prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-21",
+        "date": "2026-11-11",
+        "title": "Klasifikační pedagogická porada (14:00), třídní schůzky (17:30)",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-22",
+        "date": "2026-11-12",
+        "title": "Exkurze - celá škola",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-798c4ba9-fecf-4f75-bb33-8760a75af35c",
+        "date": "2026-11-12",
+        "title": "NTM - Exkurze 1.A",
+        "time": "",
+        "kind": "akce",
+        "allDay": true,
+        "author": "kubicek",
+        "authorName": "kubicek"
+      },
+      {
+        "id": "event-ea18be95-96df-4bb3-9cc1-5b8159bff283",
+        "date": "2026-11-16",
+        "title": "Ředitelské volno",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "jiri",
+        "authorName": "Kundrát"
+      },
+      {
+        "id": "event-23",
+        "date": "2026-11-17",
+        "title": "Státní svátek",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-24",
+        "date": "2026-11-25",
+        "title": "Projekt KOSTKA",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-25",
+        "date": "2026-11-26",
+        "title": "Schola Pragenzis",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-26",
+        "date": "2026-11-27",
+        "title": "Schola Pragenzis",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-27",
+        "date": "2026-11-28",
+        "title": "Schola Pragenzis",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-28",
+        "date": "2026-12-05",
+        "title": "Den otevřených dveří",
+        "time": "10-13",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-29",
+        "date": "2026-12-17",
+        "title": "Maturitní ples v Lucerně",
+        "time": "19:00",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-30",
+        "date": "2026-12-21",
+        "title": "Firmy pro 2.- 4. r., 1.r- sportovní den, 2.r - výběr zaměření",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-31",
+        "date": "2026-12-22",
+        "title": "Kino",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-32",
+        "date": "2026-12-23",
+        "title": "Vánoční prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-33",
+        "date": "2026-12-24",
+        "title": "Vánoční prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-34",
+        "date": "2026-12-25",
+        "title": "Vánoční prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-35",
+        "date": "2026-12-28",
+        "title": "Vánoční prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-36",
+        "date": "2026-12-29",
+        "title": "Vánoční prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-37",
+        "date": "2026-12-30",
+        "title": "Vánoční prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-38",
+        "date": "2026-12-31",
+        "title": "Vánoční prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-39",
+        "date": "2027-01-01",
+        "title": "Státní svátek",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-40",
+        "date": "2027-01-04",
+        "title": "Začátek výuky",
+        "time": "8:00",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-41",
+        "date": "2027-01-07",
+        "title": "Den otevřených dveří",
+        "time": "16-18",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-42",
+        "date": "2027-01-08",
+        "title": "Lyžařský výcvikový kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-43",
+        "date": "2027-01-09",
+        "title": "Lyžařský výcvikový kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-44",
+        "date": "2027-01-10",
+        "title": "Lyžařský výcvikový kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-45",
+        "date": "2027-01-11",
+        "title": "Lyžařský výcvikový kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-46",
+        "date": "2027-01-12",
+        "title": "Lyžařský výcvikový kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-47",
+        "date": "2027-01-13",
+        "title": "Lyžařský výcvikový kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-48",
+        "date": "2027-01-14",
+        "title": "Lyžařský výcvikový kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-49",
+        "date": "2027-01-15",
+        "title": "Lyžařský výcvikový kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-50",
+        "date": "2027-01-16",
+        "title": "Lyžařský výcvikový kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-51",
+        "date": "2027-01-17",
+        "title": "Lyžařský výcvikový kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-52",
+        "date": "2027-01-18",
+        "title": "Lyžařský výcvikový kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-53",
+        "date": "2027-01-19",
+        "title": "Lyžařský výcvikový kurz - Rakousko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-54",
+        "date": "2027-01-22",
+        "title": "Uzavření klasifikace za první pololetí 2026/2027 do 12:00",
+        "time": "12:00",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-55",
+        "date": "2027-01-25",
+        "title": "Pololetní pedagogická porada",
+        "time": "15:00",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-56",
+        "date": "2027-01-28",
+        "title": "Předání výpisu z vysvědčení za 1. pololetí",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-57",
+        "date": "2027-01-29",
+        "title": "Pololetní prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-58",
+        "date": "2027-02-02",
+        "title": "Den otevřených dveří",
+        "time": "16-18",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-59",
+        "date": "2027-02-22",
+        "title": "Jarní prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-60",
+        "date": "2027-02-23",
+        "title": "Jarní prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-61",
+        "date": "2027-02-24",
+        "title": "Jarní prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-62",
+        "date": "2027-02-25",
+        "title": "Jarní prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-63",
+        "date": "2027-02-26",
+        "title": "Jarní prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-64",
+        "date": "2027-03-25",
+        "title": "Velikonoční prázdniny",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-65",
+        "date": "2027-03-26",
+        "title": "Velký pátek",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-66",
+        "date": "2027-03-29",
+        "title": "Velikonoční pondělí",
+        "time": "",
+        "kind": "volno",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-67",
+        "date": "2027-04-14",
+        "title": "Třičvrtěletní pedagogická (14:00), třídní schůzky (17:30)",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-68",
+        "date": "2027-04-23",
+        "title": "Ukončení klasifikace 4. ročníků",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-69",
+        "date": "2027-04-26",
+        "title": "Klasifikační porada 4. ročníků",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-70",
+        "date": "2027-04-30",
+        "title": "Vydání vysvědčení 4. ročníkům",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-71",
+        "date": "2027-05-16",
+        "title": "Letní sportovní kurz - Chorvatsko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-72",
+        "date": "2027-05-17",
+        "title": "Letní sportovní kurz - Chorvatsko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-73",
+        "date": "2027-05-18",
+        "title": "Letní sportovní kurz - Chorvatsko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-74",
+        "date": "2027-05-19",
+        "title": "Letní sportovní kurz - Chorvatsko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-75",
+        "date": "2027-05-20",
+        "title": "Letní sportovní kurz - Chorvatsko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-76",
+        "date": "2027-05-21",
+        "title": "Letní sportovní kurz - Chorvatsko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-77",
+        "date": "2027-05-22",
+        "title": "Letní sportovní kurz - Chorvatsko",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      },
+      {
+        "id": "event-78",
+        "date": "2027-06-30",
+        "title": "Ukončení školního roku 2026/2027",
+        "time": "",
+        "kind": "akce",
+        "allDay": false,
+        "author": "kubicek",
+        "authorName": ""
+      }
+    ],
     "rooms": [],
     "pages": [],
     "documents": [],
@@ -5381,6 +6304,15 @@
         "enabled": true,
         "showNative": true,
         "order": 7
+      },
+      "canteen": {
+        "label": "",
+        "title": "",
+        "description": "",
+        "body": "",
+        "enabled": true,
+        "showNative": true,
+        "order": 8
       }
     },
     "settings": {
@@ -5398,8 +6330,10 @@
       "showDay": true,
       "showFavorites": true
     },
+    "teacherLinksRevision": "2026-11-09",
+    "teacherDatesRevision": "2026-11-09",
     "teacherMediaRevision": "2026-11-04b"
   },
-  "revision": 13,
-  "updatedAt": "2026-11-04T21:13:49.585Z"
+  "revision": 32,
+  "updatedAt": "2026-11-09T19:01:43.576Z"
 }

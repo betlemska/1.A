@@ -1,4 +1,4 @@
-name: Web a automatický jídelníček
+name: Web v2, jídelníček a školní aktuality
 
 on:
   push:
@@ -42,7 +42,9 @@ jobs:
       - name: Zachovat poslední zveřejněnou nabídku
         env:
           PAGES_URL: ${{ steps.pages.outputs.base_url }}
-        run: python tools/restore-lunch.py "$PAGES_URL"
+        run: |
+          python tools/restore-lunch.py "$PAGES_URL" lunch
+          python tools/restore-lunch.py "$PAGES_URL" school-news
 
       - name: Stáhnout aktuální nabídku
         id: lunch
@@ -52,6 +54,15 @@ jobs:
       - name: Upozornit na výpadek jídelny
         if: steps.lunch.outcome == 'failure'
         run: echo '::warning::Jídelna není dostupná. Zachována poslední datovaná nabídka.'
+
+      - name: Stáhnout nejnovější oficiální aktualitu
+        id: school_news
+        continue-on-error: true
+        run: python tools/update-school-news.py --output assets/school-news.json
+
+      - name: Upozornit na výpadek školních aktualit
+        if: steps.school_news.outcome == 'failure'
+        run: echo '::warning::Školní RSS není dostupné. Zachována poslední ověřená aktualita.'
 
       - name: Sestavit statickou verzi
         run: python tools/prepare-pages.py

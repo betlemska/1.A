@@ -2,86 +2,8 @@
   "schemaVersion": 1,
   "source": "https://jidelna.betlemska.cz/ejidelnicek/menu/",
   "timezone": "Europe/Prague",
-  "fetchedAt": "2026-11-05T08:09:48+00:00",
+  "fetchedAt": "2026-11-10T08:05:05+00:00",
   "days": {
-    "2026-11-05": {
-      "date": "2026-11-05",
-      "label": "Čtvrtek 5.11.2026",
-      "closed": false,
-      "message": "",
-      "soups": [
-        {
-          "name": "Sýrová s krutóny",
-          "allergens": "(obsahuje alergeny:1,1a,7)"
-        }
-      ],
-      "meals": [
-        {
-          "number": 1,
-          "name": "Hovězí na česneku,bramborová kaše",
-          "allergens": "(obsahuje alergeny:1,1a)"
-        },
-        {
-          "number": 2,
-          "name": "Treska na česnekovém másle s bylinkovou remuládou,duš.zelenina",
-          "allergens": "(obsahuje alergeny:4,7)"
-        }
-      ],
-      "drink": "Čaj,svěží voda",
-      "extra": "Zeleninový salát"
-    },
-    "2026-11-06": {
-      "date": "2026-11-06",
-      "label": "Pátek 6.11.2026",
-      "closed": false,
-      "message": "",
-      "soups": [
-        {
-          "name": "Italská Minestrone",
-          "allergens": "(obsahuje alergeny:1,1a,9)"
-        }
-      ],
-      "meals": [
-        {
-          "number": 1,
-          "name": "Zapečené těstoviny ,okurka",
-          "allergens": "(obsahuje alergeny:1,1a,3,7)"
-        },
-        {
-          "number": 2,
-          "name": "Husí játra na cibulce s houbami a slaninou,peč.brambory",
-          "allergens": ""
-        }
-      ],
-      "drink": "Čaj,sirup",
-      "extra": "Červená řepa"
-    },
-    "2026-11-09": {
-      "date": "2026-11-09",
-      "label": "Pondělí 9.11.2026",
-      "closed": false,
-      "message": "",
-      "soups": [
-        {
-          "name": "Zeleninová s krupicí",
-          "allergens": "(obsahuje alergeny:1,1a,9)"
-        }
-      ],
-      "meals": [
-        {
-          "number": 1,
-          "name": "Vepřová panenka s červeným pepřem,amer.brambory",
-          "allergens": "(obsahuje alergeny:7)"
-        },
-        {
-          "number": 2,
-          "name": "Těstovinový salát s krabím masem",
-          "allergens": "(obsahuje alergeny:1,1a,3)"
-        }
-      ],
-      "drink": "Čaj,svěží voda",
-      "extra": "Zeleninový salát"
-    },
     "2026-11-10": {
       "date": "2026-11-10",
       "label": "Úterý 10.11.2026",
@@ -189,27 +111,11 @@
     "2026-11-16": {
       "date": "2026-11-16",
       "label": "Pondělí 16.11.2026",
-      "closed": false,
-      "message": "",
-      "soups": [
-        {
-          "name": "Luštěninová",
-          "allergens": ""
-        }
-      ],
-      "meals": [
-        {
-          "number": 1,
-          "name": "Pečené kuře na pomerančích se zeleninou a bramborem",
-          "allergens": ""
-        },
-        {
-          "number": 2,
-          "name": "Grilovaný sýr s brusinkami,zeleninou a toastem",
-          "allergens": "(obsahuje alergeny:1,1a,7)"
-        }
-      ],
-      "drink": "Čaj,svěží voda",
+      "closed": true,
+      "message": "Ředitelské volno",
+      "soups": [],
+      "meals": [],
+      "drink": "",
       "extra": ""
     },
     "2026-11-17": {
@@ -351,6 +257,110 @@
       ],
       "drink": "Čaj,svěží voda",
       "extra": "Moučník"
+    },
+    "2026-11-25": {
+      "date": "2026-11-25",
+      "label": "Středa 25.11.2026",
+      "closed": false,
+      "message": "",
+      "soups": [
+        {
+          "name": "Luštěninová",
+          "allergens": ""
+        }
+      ],
+      "meals": [
+        {
+          "number": 1,
+          "name": "Vepřové na paprice,těstovina",
+          "allergens": "(obsahuje alergeny:1,1a,7)"
+        },
+        {
+          "number": 2,
+          "name": "Krůtí játra na medové hořčici,rýže",
+          "allergens": "(obsahuje alergeny:7,10)"
+        }
+      ],
+      "drink": "Čaj,džus",
+      "extra": "Ovocné pyré"
+    },
+    "2026-11-26": {
+      "date": "2026-11-26",
+      "label": "Čtvrtek 26.11.2026",
+      "closed": false,
+      "message": "",
+      "soups": [
+        {
+          "name": "Slepičí se zeleninou a nudlemi",
+          "allergens": "(obsahuje alergeny:1,1a,9)"
+        }
+      ],
+      "meals": [
+        {
+          "number": 1,
+          "name": "Mexické kuřecí nudličky s rýží",
+          "allergens": ""
+        },
+        {
+          "number": 2,
+          "name": "Grilovaný sýr s brusinkami,zeleninou a toastem",
+          "allergens": "(obsahuje alergeny:1,1a,7)"
+        }
+      ],
+      "drink": "Čaj,mléko,sirup",
+      "extra": "Jogurt"
+    },
+    "2026-11-27": {
+      "date": "2026-11-27",
+      "label": "Pátek 27.11.2026",
+      "closed": false,
+      "message": "",
+      "soups": [
+        {
+          "name": "Zeleninová s quinoou",
+          "allergens": "(obsahuje alergeny:1,1a,9)"
+        }
+      ],
+      "meals": [
+        {
+          "number": 1,
+          "name": "Milánské špagety se sýrem",
+          "allergens": "(obsahuje alergeny:1,1a,7)"
+        },
+        {
+          "number": 2,
+          "name": "Treska tmavá s fazolkami a česnekem",
+          "allergens": "(obsahuje alergeny:4)"
+        }
+      ],
+      "drink": "Čaj,voda s citrusy",
+      "extra": "Ovoce"
+    },
+    "2026-11-30": {
+      "date": "2026-11-30",
+      "label": "Pondělí 30.11.2026",
+      "closed": false,
+      "message": "",
+      "soups": [
+        {
+          "name": "Cizrnová se slunečnicovými semínky",
+          "allergens": ""
+        }
+      ],
+      "meals": [
+        {
+          "number": 1,
+          "name": "Pečené kuře na pomerančích se zeleninou a bramborem",
+          "allergens": ""
+        },
+        {
+          "number": 2,
+          "name": "Rýžovojáhlová kaše s posypkou,kompot",
+          "allergens": "(obsahuje alergeny:7)"
+        }
+      ],
+      "drink": "Čaj,svěží voda",
+      "extra": ""
     }
   }
 }

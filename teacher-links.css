@@ -15,3 +15,9 @@
 .teacher-link-preview small{display:block;font-size:9px;font-weight:400;color:#6a7d8c;margin-top:3px}
 .link-row [data-link-preview]{grid-column:1/-1;justify-self:start}
 @media(max-width:600px){.teacher-social-link{max-width:100%;overflow-wrap:anywhere}.teacher-social-link>span:not(.teacher-link-arrow){min-width:0}.teacher-social-links--compact .teacher-social-link{min-height:44px}.teacher-card-shell .teacher-social-links--compact{padding:9px 15px}}
+
+.teacher-social-link--youtube{color:#b72020}.teacher-social-link--youtube:hover{background:#fff1f1;border-color:#e39b9b;color:#a21717}
+.cabinet-link{display:inline-flex;align-items:center;gap:10px;min-height:44px;background:transparent;border:0;padding:0;color:#176a99;font:inherit;font-weight:600;text-align:left;cursor:pointer;text-decoration:underline;text-underline-offset:4px}.cabinet-link:hover{color:#0a4a70}.cabinet-link:focus-visible{outline:3px solid #2189c4;outline-offset:3px;border-radius:3px}.cabinet-back{min-height:44px;margin-bottom:16px}
+.teacher-review blockquote{margin:0 0 15px;padding:16px 20px;border-left:3px solid #2189c4;background:#f3f7fa;border-radius:0 8px 8px 0}.teacher-review blockquote p{margin:0 0 10px;line-height:1.65}.teacher-review blockquote footer{font-size:11px;color:#637683;line-height:1.5}
+
+.teacher-review blockquote p{white-space:pre-line;overflow-wrap:anywhere}
