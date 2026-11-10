@@ -5,7 +5,7 @@ from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlparse
 import xml.etree.ElementTree as ET
-SOURCE='https://www.betlemska.cz/aktuality?format=feed&type=rss'
+SOURCE='https://betlemska.cz/aktuality?format=feed&type=rss'
 class Text(HTMLParser):
     def __init__(self):super().__init__(convert_charrefs=True);self.parts=[]
     def handle_data(self,value):self.parts.append(value)
