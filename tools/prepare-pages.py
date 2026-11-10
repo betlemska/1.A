@@ -14,7 +14,7 @@ def prepare():
     files=[p for p in ROOT.iterdir() if p.is_file() and (p.suffix in ['.js','.css','.html'] or p.name in ['.nojekyll','manifest.webmanifest'])]
     files += [p for p in (ROOT/'assets').rglob('*') if p.is_file()]
     banned={'admin.js','admin.css','notifications.js','reports.js','admin.html'}
-    if any(p.name in banned for p in files):raise ValueError('Server-only files in static export')
+    files=[p for p in files if p.name not in banned]
     worker=(ROOT/'sw.js').read_text()
     for tag in re.findall(r'<(?:script|link)\b[^>]+>',page):
         match=re.search(r'(?:src|href)="([^"]+)"',tag)
