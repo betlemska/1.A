@@ -3,6 +3,7 @@ const root=fs.existsSync(path.join(__dirname,'../public/assets/data.json'))?path
 function load(name){const ctx={module:{exports:{}}};vm.runInNewContext(fs.readFileSync(path.join(root,name),'utf8'),ctx);return ctx.module.exports}
 const {daily,roomState,menuForDate}=load('portal-core.js'),{hours}=load('presence.js'),data=JSON.parse(fs.readFileSync(path.join(root,'assets/data.json'),'utf8'));
 const day=t=>daily(data.teachers,'1.A','2026-10-27',t,data.events,hours);
+for(const [minute,expected] of [[479,false],[480,false],[525,true],[529,true],[530,false],[1000,false]]) assert.equal(day(minute).isBreak,expected);
 assert.equal(day(479).current.length,0);assert.equal(day(479).next[0].subject,'CJL');assert.equal(day(480).current[0].subject,'CJL');assert.equal(day(525).current.length,0);assert.equal(day(525).bell.minute,530);assert.equal(day(640).current[0].subject,'MAT');assert.equal(day(640).current[0].room,'U7');assert.equal(day(685).current.length,0);assert.equal(day(685).next[0].hour,4);assert.equal(day(1000).bell,undefined);assert.equal(day(1000).next.length,0);
 assert.equal(daily(data.teachers,'1.A','2026-10-28',600,data.events,hours).isSchool,false);
 assert.equal(daily(data.teachers,'1.A','2026-10-31',600,data.events,hours).lessons.length,0);
