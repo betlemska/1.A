@@ -1,5 +1,6 @@
 import importlib.util,json,subprocess,sys,tempfile,unittest
 from pathlib import Path
+from unittest.mock import patch
 root=Path(__file__).resolve().parents[1]
 spec=importlib.util.spec_from_file_location('school_news',root/'tools/update-school-news.py')
 news=importlib.util.module_from_spec(spec);spec.loader.exec_module(news)
@@ -21,4 +22,14 @@ class SchoolNewsTests(unittest.TestCase):
  def test_external_url_and_entities_rejected(self):
   for raw in [b'<!DOCTYPE rss [<!ENTITY a "text">]><rss/>',b'<rss><channel><item><title>Bad</title><link>https://evil.test/aktuality/1</link><pubDate>Mon, 09 Nov 2026 08:00:00 +0100</pubDate></item></channel></rss>']:
    with self.assertRaises(ValueError):news.latest(raw)
+ def test_direct_timeout_uses_operational_feed(self):
+  expected=json.loads((root/'assets/school-news.json').read_text())
+  with patch.object(news,'download',side_effect=[subprocess.TimeoutExpired('curl',20),json.dumps(expected).encode()]) as download:
+   article=news.fetch_article()
+  self.assertEqual(article['title'],expected['title']);self.assertEqual(article['url'],expected['url'])
+  self.assertEqual([call.args[0] for call in download.call_args_list],[news.SOURCE,news.FALLBACK])
+  self.assertTrue(article['fetchedAt'])
+ def test_proxy_rejects_external_article(self):
+  article={'title':'News','excerpt':'Text','url':'https://evil.test/aktuality/1','date':'2026-11-10T08:00:00Z'}
+  with self.assertRaises(ValueError):news.from_proxy(json.dumps(article).encode())
 if __name__=='__main__':unittest.main()
