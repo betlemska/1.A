@@ -81,16 +81,14 @@ def extract(html_source):
 
 
 def download():
-    # curl uses the runner's system TLS configuration; no CORS proxy or login.
-    import subprocess
-    result = subprocess.run(['curl', '--fail', '--location', '--silent', '--show-error',
-        '--proto', '=https', '--proto-redir', '=https', '--retry', '2', '--connect-timeout', '10',
-        '--max-time', '30', '--max-filesize', '2000000', '--user-agent',
-        'BetlemskaStudentPortal/1.0 (public menu reader)', SOURCE],
-        capture_output=True, check=True, timeout=105)
-    if len(result.stdout) > 2_000_000:
-        raise ValueError('Public menu exceeds 2 MB')
-    return result.stdout.decode('utf-8')
+    request = urllib.request.Request(SOURCE, headers={'User-Agent': 'BetlemskaStudentPortal/1.0 (public menu reader)'})
+    with urllib.request.urlopen(request, timeout=30) as response:
+        if response.status != 200 or 'text/html' not in response.headers.get('Content-Type', ''):
+            raise ValueError('Public menu returned unexpected response')
+        content = response.read(2_000_001)
+        if len(content) > 2_000_000:
+            raise ValueError('Public menu exceeds 2 MB')
+        return content.decode(response.headers.get_content_charset() or 'utf-8')
 
 
 def main():
