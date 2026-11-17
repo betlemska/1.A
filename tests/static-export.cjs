@@ -48,7 +48,7 @@ async function boot(route,mode='http',hasEmbedded=true,savedFavorites=[],legacyC
  }
  const code=fs.readFileSync(path.join(base,'app.js'),'utf8');
  assert.ok(!/api\/(menu|content|media|push|reports|admin)/.test(code));assert.ok(!code.includes('href="admin.html"'));
- assert.ok(html.includes('chatgpt.site/admin.html'));assert.ok(!html.includes('data-action="notifications"')&&!html.includes('data-action="report"'));
+ assert.ok(html.includes('chatgpt.site/admin.html'));assert.ok(html.includes('data-action="notifications"')&&!html.includes('data-action="report"'));
 
  for(const t of snapshot.content.teachers){for(const key of ['photo','pdf','video','scheduleSource']){const v=t[key];if(v?.startsWith('assets/'))assert.ok(fs.existsSync(path.join(base,v)),v)}}
 
